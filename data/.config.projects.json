@@ -1,0 +1,8 @@
+{
+    "projects": {
+        "DkNuki": {
+            "credentialSecret": "dknr-nuki"
+        }
+    },
+    "activeProject": "dknr-nuki"
+}

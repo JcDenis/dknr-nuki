@@ -1,0 +1,4082 @@
+[
+    {
+        "id": "4c2feff02c9aebaa",
+        "type": "tab",
+        "label": "common",
+        "disabled": false,
+        "info": "",
+        "env": []
+    },
+    {
+        "id": "48135a54600713e8",
+        "type": "tab",
+        "label": "custom",
+        "disabled": false,
+        "info": "",
+        "env": []
+    },
+    {
+        "id": "bd90043835651de6",
+        "type": "group",
+        "z": "4c2feff02c9aebaa",
+        "name": "common - home uri",
+        "style": {
+            "fill": "#ff0000",
+            "fill-opacity": "0.05",
+            "label": true
+        },
+        "nodes": [
+            "be68f32eed43e834",
+            "2704252b42b3faaf"
+        ],
+        "x": 94,
+        "y": 39,
+        "w": 420,
+        "h": 82
+    },
+    {
+        "id": "f734a4fcce4a0802",
+        "type": "group",
+        "z": "4c2feff02c9aebaa",
+        "name": "common - boot",
+        "style": {
+            "fill": "#ff0000",
+            "fill-opacity": "0.05",
+            "label": true
+        },
+        "nodes": [
+            "d536608ecbe6516c",
+            "b05b1e32988eccf3",
+            "0744af34f2373571",
+            "47f04f56e95961a5",
+            "def7f23476f92a9e",
+            "34e54b81fe18b33f",
+            "d0ee4b417bfa2bb7"
+        ],
+        "x": 94,
+        "y": 161,
+        "w": 1420,
+        "h": 82
+    },
+    {
+        "id": "87038dcf749d44c6",
+        "type": "group",
+        "z": "4c2feff02c9aebaa",
+        "name": "common - icon uri",
+        "style": {
+            "fill": "#ff0000",
+            "fill-opacity": "0.05",
+            "label": true
+        },
+        "nodes": [
+            "31368f26faeeeec5",
+            "066905a23ee18843",
+            "9f90cc93644f80c4",
+            "a49cdba72413a587",
+            "9ba5455a5674c8a7"
+        ],
+        "x": 94,
+        "y": 283,
+        "w": 1020,
+        "h": 82
+    },
+    {
+        "id": "ced6b0d6d8aa764d",
+        "type": "group",
+        "z": "4c2feff02c9aebaa",
+        "name": "common - mqtt",
+        "style": {
+            "fill": "#ff0000",
+            "fill-opacity": "0.05",
+            "label": true
+        },
+        "nodes": [
+            "05b0c0afa2f55df1",
+            "b18dc51cbf75cc24",
+            "4ca2b0783078bb87",
+            "99def6db6b13ba9c",
+            "30335bf1ac7b99bc",
+            "25ce94531dd6fbe4",
+            "d5bdaec879cbd196",
+            "02dccf8f780a61d9",
+            "49a4236523d8a934"
+        ],
+        "x": 94,
+        "y": 405,
+        "w": 820,
+        "h": 202
+    },
+    {
+        "id": "6f2c0bf97f866aa6",
+        "type": "group",
+        "z": "4c2feff02c9aebaa",
+        "name": "common - error",
+        "style": {
+            "fill": "#6f2fa0",
+            "fill-opacity": "0.05",
+            "label": true
+        },
+        "nodes": [
+            "fc147ee782462bbe",
+            "8b870d19217142fa",
+            "9f55bfd681e97786"
+        ],
+        "x": 94,
+        "y": 647,
+        "w": 620,
+        "h": 82
+    },
+    {
+        "id": "94ca764ef2760841",
+        "type": "group",
+        "z": "4c2feff02c9aebaa",
+        "name": "common - ui",
+        "style": {
+            "fill": "#6f2fa0",
+            "fill-opacity": "0.05",
+            "label": true
+        },
+        "nodes": [
+            "08a5cf610c97d769",
+            "7adf1bcdd6df3b31",
+            "8760610a1e45ffab",
+            "5f28408f430feddf",
+            "3681864d9f417484",
+            "ddab942f6d49a661",
+            "d3965b3ecbc6aae9",
+            "300df28f3025dc33",
+            "0154b8f75648b065",
+            "e453d1f77363ac46"
+        ],
+        "x": 94,
+        "y": 769,
+        "w": 1020,
+        "h": 262
+    },
+    {
+        "id": "9f3c5b4c8836214c",
+        "type": "group",
+        "z": "4c2feff02c9aebaa",
+        "name": "common - mqtt - form",
+        "style": {
+            "fill": "#6f2fa0",
+            "fill-opacity": "0.05",
+            "label": true
+        },
+        "nodes": [
+            "269fe06d582be842",
+            "913d3318a27c57f9",
+            "8b76a374e82e1255",
+            "094401b4b908ed63",
+            "901bc3883a87d865",
+            "ca5c502dcbc1ee15"
+        ],
+        "x": 94,
+        "y": 1071,
+        "w": 1220,
+        "h": 82
+    },
+    {
+        "id": "09bc4d2103f79a18",
+        "type": "group",
+        "z": "48135a54600713e8",
+        "name": "custom - describe",
+        "style": {
+            "fill": "#ff0000",
+            "fill-opacity": "0.05",
+            "label": true
+        },
+        "nodes": [
+            "4df61c08c091eb2d",
+            "78526f3deecd40c3",
+            "6c2a140d445208f5"
+        ],
+        "x": 94,
+        "y": 39,
+        "w": 620,
+        "h": 82
+    },
+    {
+        "id": "960e4b8030a923ea",
+        "type": "group",
+        "z": "48135a54600713e8",
+        "name": "custom - menu",
+        "style": {
+            "fill": "#6f2fa0",
+            "fill-opacity": "0.05",
+            "label": true
+        },
+        "nodes": [
+            "70ec9d97a8404d3b",
+            "9431d06e2f834cfd",
+            "ab9cd418038cefb2"
+        ],
+        "x": 94,
+        "y": 161,
+        "w": 620,
+        "h": 82
+    },
+    {
+        "id": "ec0ffc4dca815ffd",
+        "type": "group",
+        "z": "48135a54600713e8",
+        "name": "reset",
+        "style": {
+            "fill": "#ff0000",
+            "fill-opacity": "0.05",
+            "label": true
+        },
+        "nodes": [
+            "0b74e405a88fea2e",
+            "a14ae55f0d865ce9"
+        ],
+        "x": 94,
+        "y": 283,
+        "w": 420,
+        "h": 82
+    },
+    {
+        "id": "9fbfeb89a4293a05",
+        "type": "group",
+        "z": "48135a54600713e8",
+        "name": "custom - port",
+        "style": {
+            "fill": "#ff0000",
+            "fill-opacity": "0.05",
+            "label": true
+        },
+        "nodes": [
+            "2f53d1b23dabd502",
+            "0fd669297ef578d1",
+            "39dca1c701d6bec0",
+            "353b08c4b6b02c45",
+            "20d0ab4fd164951c",
+            "1ff896cfc6f43e7c",
+            "301c5336631ec359",
+            "3ab440248ede4752",
+            "e72c5d6344f363c3",
+            "2ae2dbe8a0c52503",
+            "5effca61099c2926",
+            "e7dda238cf63c8a8",
+            "f72ea61fcf914430",
+            "f51dd6a28819f7e8",
+            "76c47dff142a5662"
+        ],
+        "x": 94,
+        "y": 405,
+        "w": 1820,
+        "h": 202
+    },
+    {
+        "id": "68e4ce8d19eca915",
+        "type": "group",
+        "z": "48135a54600713e8",
+        "name": "custom - callback",
+        "style": {
+            "fill": "#ff0000",
+            "fill-opacity": "0.05",
+            "label": true
+        },
+        "nodes": [
+            "0eac346cb9f91be8",
+            "fba86ae8a1d61eff",
+            "30e85fa81763484e",
+            "9c0f9a2dd170d2a8"
+        ],
+        "x": 94,
+        "y": 647,
+        "w": 620,
+        "h": 142
+    },
+    {
+        "id": "12443c466363a8cf",
+        "type": "group",
+        "z": "48135a54600713e8",
+        "name": "custom - callback - register",
+        "style": {
+            "fill": "#ff0000",
+            "fill-opacity": "0.05",
+            "label": true
+        },
+        "nodes": [
+            "aa5d8fdb64d8eead",
+            "af22b52b6d4b7d6e",
+            "f76b7f0375f042c1",
+            "a18090b62b3f80cc",
+            "8441d8dc77ba1615",
+            "885e50ed39de0bf0",
+            "f4e1bfe0f549df7a",
+            "ba1f6c26395a15bd",
+            "6fce3de8054ff7c9"
+        ],
+        "x": 94,
+        "y": 829,
+        "w": 1820,
+        "h": 142
+    },
+    {
+        "id": "f3337597621ea0ae",
+        "type": "group",
+        "z": "48135a54600713e8",
+        "name": "custom - port - in",
+        "style": {
+            "fill": "#ff0000",
+            "fill-opacity": "0.05",
+            "label": true
+        },
+        "nodes": [
+            "f33f476ad3919afa",
+            "765ee0d160a6658a",
+            "36e537dd1f647925",
+            "dbe9cc0349e71ca4",
+            "6162222a2a048cb7",
+            "5af38ecdbdf33bf5",
+            "b588c637e660e571",
+            "625707577bb3acf6",
+            "7c81fbab7b7e5561",
+            "0c231676cc0a840b"
+        ],
+        "x": 94,
+        "y": 1011,
+        "w": 1020,
+        "h": 262
+    },
+    {
+        "id": "924d01db3d6fe1bb",
+        "type": "group",
+        "z": "48135a54600713e8",
+        "name": "custom - pilot",
+        "style": {
+            "fill": "#ff0000",
+            "fill-opacity": "0.05",
+            "label": true
+        },
+        "nodes": [
+            "97489b9c74b18279",
+            "a79098e276515994",
+            "f2563d6600773991",
+            "e07c2fc0a6a723a6",
+            "b05c777cfc9ba206",
+            "7924fbb6803f05ab",
+            "5ca419aa3f742101",
+            "e926a9816a0ad2d4",
+            "5754760b9bec658a",
+            "bd121e4b65b5c6fa"
+        ],
+        "x": 94,
+        "y": 1313,
+        "w": 1220,
+        "h": 262
+    },
+    {
+        "id": "f0ec048ab35c0aba",
+        "type": "group",
+        "z": "48135a54600713e8",
+        "name": "custom - publish",
+        "style": {
+            "fill": "#ff0000",
+            "fill-opacity": "0.05",
+            "label": true
+        },
+        "nodes": [
+            "0202e88315f2e15b",
+            "1adcf1a2138705ad",
+            "a81401e76a19875a"
+        ],
+        "x": 94,
+        "y": 1615,
+        "w": 620,
+        "h": 82
+    },
+    {
+        "id": "36bbd8cd168f8736",
+        "type": "group",
+        "z": "48135a54600713e8",
+        "name": "custom - discovery",
+        "style": {
+            "fill": "#ff0000",
+            "fill-opacity": "0.05",
+            "label": true
+        },
+        "nodes": [
+            "b898845c38151a25",
+            "6b06942abfcca4be",
+            "b2327d1a9a1b2241",
+            "df58e1332d9b9265",
+            "e3bf3fdd364dd194",
+            "729d251fc4615f70"
+        ],
+        "x": 94,
+        "y": 1737,
+        "w": 820,
+        "h": 142
+    },
+    {
+        "id": "aa2434356a6005c9",
+        "type": "group",
+        "z": "48135a54600713e8",
+        "name": "custom - detail",
+        "style": {
+            "fill": "#6f2fa0",
+            "fill-opacity": "0.05",
+            "label": true
+        },
+        "nodes": [
+            "42ae67c19e3e3682",
+            "fc13877bc8688552",
+            "5fe9ae20996803b3",
+            "3b9508c44f7033cc",
+            "bbbf0a92c56392d6",
+            "7a75fd81ea18e5d2",
+            "72b4950973c4b878",
+            "d50f364f58234232",
+            "a89627275b3f38bc",
+            "8f4d415b32886b62",
+            "cb68300067bc2ba3",
+            "fe917db853e72abe",
+            "7ade51e419974721",
+            "215179f09ce78515"
+        ],
+        "x": 94,
+        "y": 1919,
+        "w": 1620,
+        "h": 262
+    },
+    {
+        "id": "5a20c820ed561c3c",
+        "type": "group",
+        "z": "48135a54600713e8",
+        "name": "custom - add",
+        "style": {
+            "fill": "#6f2fa0",
+            "fill-opacity": "0.05",
+            "label": true
+        },
+        "nodes": [
+            "bc316da0f789944c",
+            "2c088a75ffcd9c7d",
+            "b09d2449efe13408",
+            "515a3cd331faef3f",
+            "15978f027ee8c286",
+            "3575881a51246420",
+            "40e60d92f549f287",
+            "714b50f6d35ecd51",
+            "ab9f74078443de9c"
+        ],
+        "x": 94,
+        "y": 2221,
+        "w": 1620,
+        "h": 202
+    },
+    {
+        "id": "00518ec837921924",
+        "type": "group",
+        "z": "48135a54600713e8",
+        "name": "custom - bridges",
+        "style": {
+            "fill": "#6f2fa0",
+            "fill-opacity": "0.05",
+            "label": true
+        },
+        "nodes": [
+            "d90072e5ae8fb4c1",
+            "03920df0c676d4a8",
+            "c630291b8f1b800e",
+            "20d2011eb0c2ae8d",
+            "30711e20ed6fac4c",
+            "5c8c7fe9b2563261",
+            "7b95134f8dcfe655",
+            "327248a9cb2a31cd",
+            "5d03f7b49d4130b4",
+            "ea3be4f79099a66c",
+            "a58748353cb572ac"
+        ],
+        "x": 94,
+        "y": 2463,
+        "w": 1620,
+        "h": 202
+    },
+    {
+        "id": "2a1ab92796f321cc",
+        "type": "group",
+        "z": "48135a54600713e8",
+        "name": "sources",
+        "style": {
+            "fill": "#ff0000",
+            "fill-opacity": "0.05",
+            "label": true
+        },
+        "nodes": [
+            "a0afb30d023e2ea5"
+        ],
+        "x": 94,
+        "y": 2705,
+        "w": 220,
+        "h": 82
+    },
+    {
+        "id": "be68f32eed43e834",
+        "type": "http in",
+        "z": "4c2feff02c9aebaa",
+        "g": "bd90043835651de6",
+        "name": "",
+        "method": "get",
+        "upload": false,
+        "skipBodyParsing": false,
+        "swaggerDoc": "",
+        "url": "/",
+        "wires": [
+            [
+                "2704252b42b3faaf"
+            ]
+        ],
+        "x": 190,
+        "y": 80
+    },
+    {
+        "id": "2704252b42b3faaf",
+        "type": "http response",
+        "z": "4c2feff02c9aebaa",
+        "g": "bd90043835651de6",
+        "name": "",
+        "statusCode": "307",
+        "headers": {
+            "Location": "/dashboard"
+        },
+        "wires": [],
+        "x": 390,
+        "y": 80
+    },
+    {
+        "id": "d536608ecbe6516c",
+        "type": "inject",
+        "z": "4c2feff02c9aebaa",
+        "g": "f734a4fcce4a0802",
+        "name": "boot",
+        "props": [
+            {
+                "p": "payload"
+            },
+            {
+                "p": "topic",
+                "vt": "str"
+            }
+        ],
+        "repeat": "",
+        "crontab": "",
+        "once": true,
+        "onceDelay": "0.5",
+        "topic": "",
+        "payload": "{}",
+        "payloadType": "jsonata",
+        "wires": [
+            [
+                "b05b1e32988eccf3"
+            ]
+        ],
+        "x": 190,
+        "y": 202
+    },
+    {
+        "id": "b05b1e32988eccf3",
+        "type": "link call",
+        "z": "4c2feff02c9aebaa",
+        "g": "f734a4fcce4a0802",
+        "name": "",
+        "linkType": "static",
+        "timeout": "30",
+        "wires": [
+            [
+                "0744af34f2373571"
+            ]
+        ],
+        "links": [
+            "4df61c08c091eb2d"
+        ],
+        "x": 390,
+        "y": 202
+    },
+    {
+        "id": "0744af34f2373571",
+        "type": "function",
+        "z": "4c2feff02c9aebaa",
+        "g": "f734a4fcce4a0802",
+        "name": "check",
+        "outputs": 1,
+        "timeout": 0,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "func": "if (typeof msg.payload !== 'object' ||\n    typeof msg.payload.hmi !== 'object' ||\n    typeof msg.payload.project !== 'string'\n) {\n    return;\n}\n\nmsg.filename = '/data/projects/' + msg.payload.project + '/package.json'\n\nmsg.payload.app = {\n    'title': 'DKNR',\n    'version' : '0.0',\n    'git': ''\n}\n\nglobal.set('describe', msg.payload, 'memoryOnly');\n\nreturn msg;",
+        "wires": [
+            [
+                "47f04f56e95961a5"
+            ]
+        ],
+        "x": 590,
+        "y": 202
+    },
+    {
+        "id": "47f04f56e95961a5",
+        "type": "file in",
+        "z": "4c2feff02c9aebaa",
+        "g": "f734a4fcce4a0802",
+        "name": "read project",
+        "filename": "filename",
+        "filenameType": "msg",
+        "format": "utf8",
+        "chunk": false,
+        "sendError": false,
+        "encoding": "none",
+        "allProps": false,
+        "wires": [
+            [
+                "def7f23476f92a9e"
+            ]
+        ],
+        "x": 790,
+        "y": 202
+    },
+    {
+        "id": "def7f23476f92a9e",
+        "type": "json",
+        "z": "4c2feff02c9aebaa",
+        "g": "f734a4fcce4a0802",
+        "name": "",
+        "property": "payload",
+        "action": "",
+        "pretty": false,
+        "wires": [
+            [
+                "34e54b81fe18b33f"
+            ]
+        ],
+        "x": 990,
+        "y": 202
+    },
+    {
+        "id": "34e54b81fe18b33f",
+        "type": "function",
+        "z": "4c2feff02c9aebaa",
+        "g": "f734a4fcce4a0802",
+        "name": "app",
+        "outputs": 1,
+        "timeout": 0,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "func": "delete msg.filename;\n\nif (typeof global.get('describe', 'memoryOnly') !== 'object') {\n    global.set('describe', { }, 'memoryOnly')\n}\n\nlet describe = global.get('describe', 'memoryOnly');\n\nif (typeof msg.payload === 'object') {\n    describe.app = {\n        'title': msg.payload.description || '',\n        'version' : msg.payload.version || '',\n        'git': msg.payload.name || ''\n    };\n}\n\ndescribe.mqtt = {\n    'host': '',\n    'port': 1883,\n    'username': '',\n    'password': '',\n    'topic': 'dknr',\n    'enabled': false,\n    'homeassistant': 'homeassistant',\n    'nukimqtt': false\n};\n\nreturn msg;",
+        "wires": [
+            [
+                "d0ee4b417bfa2bb7"
+            ]
+        ],
+        "x": 1190,
+        "y": 202
+    },
+    {
+        "id": "d0ee4b417bfa2bb7",
+        "type": "link out",
+        "z": "4c2feff02c9aebaa",
+        "g": "f734a4fcce4a0802",
+        "name": "common - boot",
+        "mode": "link",
+        "wires": [],
+        "links": [
+            "05b0c0afa2f55df1",
+            "269fe06d582be842",
+            "bc316da0f789944c",
+            "42ae67c19e3e3682",
+            "d90072e5ae8fb4c1",
+            "aa5d8fdb64d8eead"
+        ],
+        "x": 1390,
+        "y": 202
+    },
+    {
+        "id": "31368f26faeeeec5",
+        "type": "http in",
+        "z": "4c2feff02c9aebaa",
+        "g": "87038dcf749d44c6",
+        "name": "",
+        "method": "get",
+        "upload": false,
+        "skipBodyParsing": false,
+        "swaggerDoc": "",
+        "url": "/icon.png",
+        "wires": [
+            [
+                "066905a23ee18843"
+            ]
+        ],
+        "x": 190,
+        "y": 324
+    },
+    {
+        "id": "066905a23ee18843",
+        "type": "change",
+        "z": "4c2feff02c9aebaa",
+        "g": "87038dcf749d44c6",
+        "name": "file",
+        "action": "",
+        "property": "",
+        "from": "",
+        "to": "",
+        "reg": false,
+        "rules": [
+            {
+                "t": "set",
+                "p": "filename",
+                "pt": "msg",
+                "to": "'/data/admin.png'",
+                "tot": "jsonata"
+            }
+        ],
+        "wires": [
+            [
+                "9f90cc93644f80c4"
+            ]
+        ],
+        "x": 390,
+        "y": 324
+    },
+    {
+        "id": "9f90cc93644f80c4",
+        "type": "file in",
+        "z": "4c2feff02c9aebaa",
+        "g": "87038dcf749d44c6",
+        "name": "icon",
+        "filename": "filename",
+        "filenameType": "msg",
+        "format": "utf8",
+        "chunk": false,
+        "sendError": false,
+        "encoding": "none",
+        "allProps": false,
+        "wires": [
+            [
+                "a49cdba72413a587"
+            ]
+        ],
+        "x": 590,
+        "y": 324
+    },
+    {
+        "id": "a49cdba72413a587",
+        "type": "change",
+        "z": "4c2feff02c9aebaa",
+        "g": "87038dcf749d44c6",
+        "name": "response",
+        "action": "",
+        "property": "",
+        "from": "",
+        "to": "",
+        "reg": false,
+        "rules": [
+            {
+                "t": "set",
+                "p": "statusCode",
+                "pt": "msg",
+                "to": "200",
+                "tot": "num"
+            },
+            {
+                "t": "set",
+                "p": "buffersize",
+                "pt": "msg",
+                "to": "msg.payload.length",
+                "tot": "jsonata"
+            },
+            {
+                "t": "set",
+                "p": "headers",
+                "pt": "msg",
+                "to": "{\t    'Content-Type':'image/png',\t    'Content-Length':msg.buffersize,\t    'Connection':'close'\t}",
+                "tot": "jsonata"
+            },
+            {
+                "t": "delete",
+                "p": "filename",
+                "pt": "msg"
+            }
+        ],
+        "wires": [
+            [
+                "9ba5455a5674c8a7"
+            ]
+        ],
+        "x": 790,
+        "y": 324
+    },
+    {
+        "id": "9ba5455a5674c8a7",
+        "type": "http response",
+        "z": "4c2feff02c9aebaa",
+        "g": "87038dcf749d44c6",
+        "name": "",
+        "statusCode": "",
+        "headers": {},
+        "wires": [],
+        "x": 990,
+        "y": 324
+    },
+    {
+        "id": "05b0c0afa2f55df1",
+        "type": "link in",
+        "z": "4c2feff02c9aebaa",
+        "g": "ced6b0d6d8aa764d",
+        "name": "common - mqtt - settings",
+        "wires": [
+            [
+                "b18dc51cbf75cc24",
+                "99def6db6b13ba9c"
+            ]
+        ],
+        "links": [
+            "d0ee4b417bfa2bb7",
+            "ca5c502dcbc1ee15"
+        ],
+        "x": 190,
+        "y": 446
+    },
+    {
+        "id": "b18dc51cbf75cc24",
+        "type": "function",
+        "z": "4c2feff02c9aebaa",
+        "g": "ced6b0d6d8aa764d",
+        "name": "check",
+        "outputs": 1,
+        "timeout": 0,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "func": "msg.broker = {};\n\nlet mqtt = global.get('mqtt', 'default');\nif (typeof mqtt == 'object' && mqtt.enabled == true) {\n    if (mqtt.host.length > 0\n        && mqtt.port > 0\n        && mqtt.topic.length > 0\n    ) {\n        msg.broker.broker = mqtt.host;\n        msg.broker.port = mqtt.port;\n        if (mqtt.username.length > 0 && mqtt.password.length > 0) {\n            msg.broker.username = mqtt.username;\n            msg.broker.password = mqtt.password;\n        }\n\n        msg.broker.force = true;\n        msg.action = 'connect';\n        node.status({fill:\"green\",shape:\"ring\",text:\"settings ok\"});\n\n        return msg;\n    } else {\n        global.set('mqtt[\"enabled\"]', false, 'default');\n        node.status({ fill: \"red\", shape: \"ring\", text: \"settings ko\" });\n    }\n}\n\nmsg.action = 'disconnect';\n\nreturn msg;",
+        "wires": [
+            [
+                "4ca2b0783078bb87"
+            ]
+        ],
+        "x": 390,
+        "y": 446
+    },
+    {
+        "id": "4ca2b0783078bb87",
+        "type": "mqtt out",
+        "z": "4c2feff02c9aebaa",
+        "g": "ced6b0d6d8aa764d",
+        "name": "mqtt",
+        "topic": "",
+        "qos": "",
+        "retain": "",
+        "respTopic": "",
+        "contentType": "",
+        "userProps": "",
+        "correl": "",
+        "expiry": "",
+        "broker": "2c5e094fee5ae877",
+        "wires": [],
+        "x": 590,
+        "y": 446
+    },
+    {
+        "id": "99def6db6b13ba9c",
+        "type": "function",
+        "z": "4c2feff02c9aebaa",
+        "g": "ced6b0d6d8aa764d",
+        "name": "check",
+        "outputs": 1,
+        "timeout": 0,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "func": "// Subscribe to DKNR commands topic (and to Nuki native MQTT topic if enabled)\n\nmsg.broker = {};\n\nconst mqtt = global.get('mqtt', 'default');\nconst source = 'nuki';\n\nif (typeof mqtt == 'object' && mqtt.enabled == true) {\n    if (mqtt.host.length > 0\n        && mqtt.port > 0\n        && mqtt.topic.length > 0\n    ) {\n        msg.broker.broker = mqtt.host;\n        msg.broker.port = mqtt.port;\n        if (mqtt.username.length > 0 && mqtt.password.length > 0) {\n            msg.broker.username = mqtt.username;\n            msg.broker.password = mqtt.password;\n        }\n\n        msg.broker.force = true;\n        msg.action = 'connect';\n        node.status({fill:\"green\",shape:\"ring\",text:\"settings ok\"});\n\n        node.send(RED.util.cloneMessage(msg));\n\n        delete msg.broker;\n        msg.action = 'subscribe';\n        msg.payload = '';\n\n        // DKNR commands: topic / set / nuki / id / entity\n        msg.topic = [mqtt.topic, 'set', source, '#'].join('/');\n        node.send(RED.util.cloneMessage(msg));\n\n        // Nuki Smart Lock 3.0/4.0 native MQTT API: nuki / id / key\n        if (mqtt.nukimqtt === true) {\n            msg.topic = 'nuki/+/+';\n            node.send(RED.util.cloneMessage(msg));\n        }\n\n    } else {\n        global.set('mqtt.enabled', false, 'default');\n        node.status({ fill: \"red\", shape: \"ring\", text: \"settings ko\" });\n    }\n} else {\n    msg.action = 'disconnect';\n\n    node.send(msg);\n}\n\nreturn;",
+        "wires": [
+            [
+                "30335bf1ac7b99bc"
+            ]
+        ],
+        "x": 390,
+        "y": 506
+    },
+    {
+        "id": "30335bf1ac7b99bc",
+        "type": "mqtt in",
+        "z": "4c2feff02c9aebaa",
+        "g": "ced6b0d6d8aa764d",
+        "name": "mqtt in",
+        "topic": "",
+        "qos": "2",
+        "datatype": "auto-detect",
+        "broker": "2c5e094fee5ae877",
+        "nl": false,
+        "rap": true,
+        "rh": 0,
+        "inputs": 1,
+        "wires": [
+            [
+                "25ce94531dd6fbe4"
+            ]
+        ],
+        "x": 590,
+        "y": 506
+    },
+    {
+        "id": "25ce94531dd6fbe4",
+        "type": "link out",
+        "z": "4c2feff02c9aebaa",
+        "g": "ced6b0d6d8aa764d",
+        "name": "common - mqtt - receive",
+        "mode": "link",
+        "wires": [],
+        "links": [
+            "f33f476ad3919afa"
+        ],
+        "x": 790,
+        "y": 506
+    },
+    {
+        "id": "d5bdaec879cbd196",
+        "type": "link in",
+        "z": "4c2feff02c9aebaa",
+        "g": "ced6b0d6d8aa764d",
+        "name": "common - mqtt - send",
+        "wires": [
+            [
+                "02dccf8f780a61d9"
+            ]
+        ],
+        "links": [
+            "f72ea61fcf914430",
+            "a81401e76a19875a",
+            "e3bf3fdd364dd194",
+            "5ca419aa3f742101",
+            "a58748353cb572ac"
+        ],
+        "x": 190,
+        "y": 566
+    },
+    {
+        "id": "02dccf8f780a61d9",
+        "type": "switch",
+        "z": "4c2feff02c9aebaa",
+        "g": "ced6b0d6d8aa764d",
+        "name": "enabled",
+        "checkall": "false",
+        "repair": false,
+        "property": "mqtt.enabled",
+        "propertyType": "global",
+        "rules": [
+            {
+                "t": "true"
+            }
+        ],
+        "outputs": 1,
+        "wires": [
+            [
+                "4ca2b0783078bb87",
+                "49a4236523d8a934"
+            ]
+        ],
+        "x": 390,
+        "y": 566
+    },
+    {
+        "id": "49a4236523d8a934",
+        "type": "debug",
+        "z": "4c2feff02c9aebaa",
+        "g": "ced6b0d6d8aa764d",
+        "name": "common - mqtt",
+        "active": false,
+        "tosidebar": true,
+        "console": false,
+        "tostatus": false,
+        "complete": "true",
+        "targetType": "full",
+        "statusVal": "",
+        "statusType": "auto",
+        "wires": [],
+        "x": 590,
+        "y": 566
+    },
+    {
+        "id": "fc147ee782462bbe",
+        "type": "link in",
+        "z": "4c2feff02c9aebaa",
+        "g": "6f2c0bf97f866aa6",
+        "name": "common - error",
+        "wires": [
+            [
+                "8b870d19217142fa"
+            ]
+        ],
+        "links": [
+            "2ae2dbe8a0c52503",
+            "6fce3de8054ff7c9",
+            "e926a9816a0ad2d4",
+            "ab9f74078443de9c",
+            "ea3be4f79099a66c"
+        ],
+        "x": 190,
+        "y": 688
+    },
+    {
+        "id": "8b870d19217142fa",
+        "type": "switch",
+        "z": "4c2feff02c9aebaa",
+        "g": "6f2c0bf97f866aa6",
+        "name": "empty",
+        "checkall": "false",
+        "repair": false,
+        "property": "payload",
+        "propertyType": "msg",
+        "rules": [
+            {
+                "t": "nempty"
+            }
+        ],
+        "outputs": 1,
+        "wires": [
+            [
+                "9f55bfd681e97786"
+            ]
+        ],
+        "x": 390,
+        "y": 688
+    },
+    {
+        "id": "9f55bfd681e97786",
+        "type": "ui-notification",
+        "z": "4c2feff02c9aebaa",
+        "g": "6f2c0bf97f866aa6",
+        "name": "common - error",
+        "ui": "df7710b4b2c4e55b",
+        "position": "top center",
+        "colorDefault": true,
+        "color": "#000000",
+        "displayTime": "3",
+        "showCountdown": true,
+        "outputs": 1,
+        "allowDismiss": true,
+        "dismissText": "Close",
+        "allowConfirm": false,
+        "confirmText": "Confirm",
+        "raw": false,
+        "className": "",
+        "wires": [
+            []
+        ],
+        "x": 590,
+        "y": 688
+    },
+    {
+        "id": "08a5cf610c97d769",
+        "type": "ui-template",
+        "z": "4c2feff02c9aebaa",
+        "g": "94ca764ef2760841",
+        "name": "common - ui - style",
+        "group": "",
+        "page": "",
+        "ui": "df7710b4b2c4e55b",
+        "order": 0,
+        "width": 0,
+        "height": 0,
+        "head": "",
+        "storeOutMessages": true,
+        "passthru": true,
+        "resendOnRefresh": true,
+        "templateScope": "site:style",
+        "className": "",
+        "format": ".v-card .remove,\n.v-card-text .remove {\n    display: none !important;\n    visibility: hidden;\n    color: transparent !important;\n}\n\n.v-table__wrapper table thead {\n    display: none !important;\n}\ntbody td[data-column-key=lbl] {\n    font-weight: bold !important;\n}\n\n.v-tab-item--selected {\n    color: #0094ce !important;\n}\n\n.v-main {\n    padding-bottom: 2em;\n}\n#app-bar-actions img {\n    margin-right: 20px;\n}\n.ui-title span {\n    font-size: 1.4rem !important;\n    font-weight: normal !important;\n    padding: 0;\n    color: #0094ce;\n}\n\n.nrdb-ui-group {\n    border-radius: 4px;\n    box-shadow: 3px 2px 2px rgba(0, 55, 77, 0.25);\n}\n.oe_nav {\n    background: rgb(var(--v-theme-navigation-background));\n}\n#oe_header {\n    border: none;\n    padding-left: 1em;\n    background: rgb(var(--v-theme-navigation-background));\n}\n.v-application {\n    border-top: 1px solid #CCCCCC;\n    margin-top: -1px;\n}\n.nrdb-ui-gauge-tile-floating-label {\n    margin-top: -5px;\n    font-size: 0.75em !important;\n}\n.nrdb-ui-gauge-tile label:after {\n    content: '°C';\n}",
+        "wires": [
+            []
+        ],
+        "x": 190,
+        "y": 810
+    },
+    {
+        "id": "7adf1bcdd6df3b31",
+        "type": "link in",
+        "z": "4c2feff02c9aebaa",
+        "g": "94ca764ef2760841",
+        "name": "common - ui - custom",
+        "wires": [
+            [
+                "8760610a1e45ffab",
+                "0154b8f75648b065"
+            ]
+        ],
+        "links": [
+            "ab9cd418038cefb2"
+        ],
+        "x": 190,
+        "y": 870
+    },
+    {
+        "id": "8760610a1e45ffab",
+        "type": "function",
+        "z": "4c2feff02c9aebaa",
+        "g": "94ca764ef2760841",
+        "name": "tab",
+        "outputs": 1,
+        "timeout": 0,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "func": "if (msg.payload !== '' && typeof global.get('describe.hmi[\"' + msg.payload + '\"]', 'memoryOnly') === 'string') {\n    msg.tab = msg.payload;\n    msg.name = global.get('describe.hmi[\"' + msg.payload + '\"]', 'memoryOnly');\n    msg.payload = 'change';\n\n    return msg;\n}\n\nreturn;",
+        "wires": [
+            [
+                "5f28408f430feddf"
+            ]
+        ],
+        "x": 390,
+        "y": 870
+    },
+    {
+        "id": "5f28408f430feddf",
+        "type": "function",
+        "z": "4c2feff02c9aebaa",
+        "g": "94ca764ef2760841",
+        "name": "action",
+        "outputs": 2,
+        "timeout": 0,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "func": "// on unwanted state, stop here\nif (msg.payload.match((new RegExp('^(connect|change|lost)$'))) === null) {\n    return;\n}\n\n// on connect or lost connection, go to auth page\nif (msg.payload === 'connect' || msg.payload === 'lost') {\n    msg.payload = global.get('describe.app.hmi', 'memoryOnly');;\n\n    return [null, msg];\n}\n\n// ui main\nmsg.version = global.get('describe.app.version', 'memoryOnly');\nmsg.title = global.get('describe.app.title', 'memoryOnly');\nmsg.full = msg.title + ' v' + msg.version;\nmsg.git = \"https://github.com/JcDenis/\" + global.get('describe.app.git', 'memoryOnly');\nmsg.lang = 'FR-fr';\n\n// ui menu\nmsg.menus = {};\nmsg.titles = {};\nmsg.payload = {\n    'pages': {\n        'show': [],\n        'hide': []\n    }\n};\nlet s =0;\nlet pages = global.get('describe.hmi', 'memoryOnly') || {};\nfor (const tab in pages) {\n    msg.menus[tab] = true;\n    msg.titles[tab] = pages[tab];\n    msg.payload.pages.show[s++] = tab;\n\n    if (tab === msg.tab) {\n        msg.title = msg.title + ' - ' + pages[tab];\n    }\n}\n\nreturn [msg, null];",
+        "wires": [
+            [
+                "3681864d9f417484",
+                "d3965b3ecbc6aae9"
+            ],
+            [
+                "0154b8f75648b065"
+            ]
+        ],
+        "x": 590,
+        "y": 870
+    },
+    {
+        "id": "3681864d9f417484",
+        "type": "delay",
+        "z": "4c2feff02c9aebaa",
+        "g": "94ca764ef2760841",
+        "name": "50ms",
+        "pauseType": "delay",
+        "timeout": "50",
+        "timeoutUnits": "milliseconds",
+        "rate": "1",
+        "nbRateUnits": "1",
+        "rateUnits": "second",
+        "randomFirst": "1",
+        "randomLast": "5",
+        "randomUnits": "seconds",
+        "drop": false,
+        "allowrate": false,
+        "outputs": 1,
+        "wires": [
+            [
+                "ddab942f6d49a661"
+            ]
+        ],
+        "x": 790,
+        "y": 870
+    },
+    {
+        "id": "ddab942f6d49a661",
+        "type": "link out",
+        "z": "4c2feff02c9aebaa",
+        "g": "94ca764ef2760841",
+        "name": "common - ui - control",
+        "mode": "link",
+        "wires": [],
+        "links": [
+            "269fe06d582be842",
+            "bc316da0f789944c",
+            "42ae67c19e3e3682",
+            "d90072e5ae8fb4c1"
+        ],
+        "x": 990,
+        "y": 870
+    },
+    {
+        "id": "d3965b3ecbc6aae9",
+        "type": "link out",
+        "z": "4c2feff02c9aebaa",
+        "g": "94ca764ef2760841",
+        "name": "common - ui - custom",
+        "mode": "link",
+        "wires": [],
+        "links": [
+            "70ec9d97a8404d3b"
+        ],
+        "x": 790,
+        "y": 930
+    },
+    {
+        "id": "300df28f3025dc33",
+        "type": "link in",
+        "z": "4c2feff02c9aebaa",
+        "g": "94ca764ef2760841",
+        "name": "common - ui - control",
+        "wires": [
+            [
+                "0154b8f75648b065"
+            ]
+        ],
+        "links": [],
+        "x": 190,
+        "y": 990
+    },
+    {
+        "id": "0154b8f75648b065",
+        "type": "ui-control",
+        "z": "4c2feff02c9aebaa",
+        "g": "94ca764ef2760841",
+        "name": "common - ui - control",
+        "ui": "df7710b4b2c4e55b",
+        "events": "all",
+        "wires": [
+            [
+                "e453d1f77363ac46"
+            ]
+        ],
+        "x": 390,
+        "y": 990
+    },
+    {
+        "id": "e453d1f77363ac46",
+        "type": "change",
+        "z": "4c2feff02c9aebaa",
+        "g": "94ca764ef2760841",
+        "name": "payload",
+        "action": "",
+        "property": "",
+        "from": "",
+        "to": "",
+        "reg": false,
+        "rules": [
+            {
+                "t": "set",
+                "p": "payload",
+                "pt": "msg",
+                "to": "name",
+                "tot": "msg"
+            }
+        ],
+        "wires": [
+            [
+                "8760610a1e45ffab"
+            ]
+        ],
+        "x": 590,
+        "y": 990
+    },
+    {
+        "id": "269fe06d582be842",
+        "type": "link in",
+        "z": "4c2feff02c9aebaa",
+        "g": "9f3c5b4c8836214c",
+        "name": "common - mqtt - form",
+        "wires": [
+            [
+                "913d3318a27c57f9"
+            ]
+        ],
+        "links": [
+            "d0ee4b417bfa2bb7",
+            "ddab942f6d49a661",
+            "ca5c502dcbc1ee15"
+        ],
+        "x": 190,
+        "y": 1112
+    },
+    {
+        "id": "913d3318a27c57f9",
+        "type": "function",
+        "z": "4c2feff02c9aebaa",
+        "g": "9f3c5b4c8836214c",
+        "name": "data",
+        "outputs": 1,
+        "timeout": 0,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "func": "msg.payload = { ...(global.get('describe.mqtt', 'memoryOnly') || { }), ...(global.get('mqtt', 'default') || { }) };\n\nreturn msg;",
+        "wires": [
+            [
+                "8b76a374e82e1255"
+            ]
+        ],
+        "x": 390,
+        "y": 1112
+    },
+    {
+        "id": "8b76a374e82e1255",
+        "type": "ui-form",
+        "z": "4c2feff02c9aebaa",
+        "g": "9f3c5b4c8836214c",
+        "name": "ui - mqtt - form",
+        "label": "",
+        "order": 1,
+        "width": 0,
+        "height": 0,
+        "submit": "Enregistrer",
+        "cancel": "",
+        "resetOnSubmit": true,
+        "topic": "topic",
+        "topicType": "msg",
+        "splitLayout": "",
+        "className": "",
+        "passthru": false,
+        "dropdownOptions": [],
+        "group": "4c116fe2697e0aa9",
+        "options": [
+            {
+                "label": "Adresse IP du broker",
+                "key": "host",
+                "type": "text",
+                "required": true,
+                "rows": null
+            },
+            {
+                "label": "Port",
+                "key": "port",
+                "type": "number",
+                "required": true,
+                "rows": null
+            },
+            {
+                "label": "Topic",
+                "key": "topic",
+                "type": "text",
+                "required": true,
+                "rows": null
+            },
+            {
+                "label": "Utilisateur",
+                "key": "username",
+                "type": "text",
+                "required": false,
+                "rows": null
+            },
+            {
+                "label": "Mot de passe",
+                "key": "password",
+                "type": "password",
+                "required": false,
+                "rows": null
+            },
+            {
+                "label": "Home Assistant Discovery topic",
+                "key": "homeassistant",
+                "type": "text",
+                "required": false,
+                "rows": null
+            },
+            {
+                "label": "Activation",
+                "key": "enabled",
+                "type": "checkbox",
+                "required": false,
+                "rows": null
+            },
+            {
+                "label": "Importer les Smart Lock connectés nativement en MQTT (topic nuki/)",
+                "key": "nukimqtt",
+                "type": "checkbox",
+                "required": false,
+                "rows": null
+            }
+        ],
+        "formValue": {
+            "host": "",
+            "port": "",
+            "topic": "",
+            "username": "",
+            "password": "",
+            "homeassistant": "",
+            "enabled": false,
+            "nukimqtt": false
+        },
+        "wires": [
+            [
+                "094401b4b908ed63"
+            ]
+        ],
+        "x": 590,
+        "y": 1112
+    },
+    {
+        "id": "094401b4b908ed63",
+        "type": "function",
+        "z": "4c2feff02c9aebaa",
+        "g": "9f3c5b4c8836214c",
+        "name": "data",
+        "outputs": 1,
+        "timeout": 0,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "func": "global.set('mqtt', msg.payload, 'default');\n\nreturn msg;",
+        "wires": [
+            [
+                "901bc3883a87d865"
+            ]
+        ],
+        "x": 790,
+        "y": 1112
+    },
+    {
+        "id": "901bc3883a87d865",
+        "type": "delay",
+        "z": "4c2feff02c9aebaa",
+        "g": "9f3c5b4c8836214c",
+        "name": "50ms",
+        "pauseType": "delay",
+        "timeout": "50",
+        "timeoutUnits": "milliseconds",
+        "rate": "1",
+        "nbRateUnits": "1",
+        "rateUnits": "second",
+        "randomFirst": "1",
+        "randomLast": "5",
+        "randomUnits": "seconds",
+        "drop": false,
+        "allowrate": false,
+        "outputs": 1,
+        "wires": [
+            [
+                "ca5c502dcbc1ee15"
+            ]
+        ],
+        "x": 990,
+        "y": 1112
+    },
+    {
+        "id": "ca5c502dcbc1ee15",
+        "type": "link out",
+        "z": "4c2feff02c9aebaa",
+        "g": "9f3c5b4c8836214c",
+        "name": "common - mqtt - form",
+        "mode": "link",
+        "wires": [],
+        "links": [
+            "05b0c0afa2f55df1",
+            "269fe06d582be842",
+            "b898845c38151a25"
+        ],
+        "x": 1190,
+        "y": 1112
+    },
+    {
+        "id": "4df61c08c091eb2d",
+        "type": "link in",
+        "z": "48135a54600713e8",
+        "g": "09bc4d2103f79a18",
+        "name": "custom - describe",
+        "wires": [
+            [
+                "78526f3deecd40c3"
+            ]
+        ],
+        "links": [],
+        "x": 190,
+        "y": 80
+    },
+    {
+        "id": "78526f3deecd40c3",
+        "type": "function",
+        "z": "48135a54600713e8",
+        "g": "09bc4d2103f79a18",
+        "name": "custom - describe",
+        "outputs": 1,
+        "timeout": 0,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "func": "msg.payload.project = 'dknr-nuki';\n\nmsg.payload.hmi = {\n    'detail': 'Piloter',\n    'add': 'Ajouter',\n    'mqtt': 'Configurer'\n};\n\n// Nuki device types (Bridge HTTP API and MQTT API)\nmsg.payload.model = {\n    '0': 'Smart Lock 1.0/2.0',\n    '2': 'Opener',\n    '3': 'Smart Door',\n    '4': 'Smart Lock 3.0/4.0'\n};\n\n// Nuki device family, anything that is not an opener is a smartlock\nmsg.payload.family = {\n    '0': 'smartlock',\n    '2': 'opener',\n    '3': 'smartlock',\n    '4': 'smartlock'\n};\n\nmsg.payload.enum = {\n    'state': {\n        'smartlock': {\n            '0': 'Non calibrée',\n            '1': 'Verrouillée',\n            '2': 'Déverrouillage',\n            '3': 'Déverrouillée',\n            '4': 'Verrouillage',\n            '5': 'Ouverte',\n            '6': \"Déverrouillée (Lock'n'Go)\",\n            '7': 'Ouverture',\n            '253': 'Démarrage',\n            '254': 'Moteur bloqué',\n            '255': 'Indéfini'\n        },\n        'opener': {\n            '0': 'Non configuré',\n            '1': 'En ligne',\n            '3': 'Ring to Open actif',\n            '5': 'Ouvert',\n            '7': 'Ouverture',\n            '253': 'Démarrage',\n            '255': 'Indéfini'\n        }\n    },\n    'mode': {\n        '2': 'Mode porte',\n        '3': 'Mode continu'\n    },\n    'doorsensorState': {\n        '1': 'Désactivé',\n        '2': 'Porte fermée',\n        '3': 'Porte ouverte',\n        '4': 'Etat inconnu',\n        '5': 'Calibrage',\n        '16': 'Non calibré',\n        '240': 'Retiré',\n        '255': 'Inconnu'\n    },\n    'action': {\n        'smartlock': {\n            '1': 'Déverrouiller',\n            '2': 'Verrouiller',\n            '3': 'Ouvrir',\n            '4': \"Lock'n'Go\",\n            '5': \"Lock'n'Go et ouvrir\",\n            '6': 'Verrouillage complet'\n        },\n        'opener': {\n            '1': 'Activer Ring to Open',\n            '2': 'Désactiver Ring to Open',\n            '3': 'Ouvrir la porte',\n            '4': 'Activer le mode continu',\n            '5': 'Désactiver le mode continu'\n        }\n    },\n    // lockActionEvent: actions without lock action\n    'event': {\n        '80': 'Badge',\n        '90': 'Bouton'\n    },\n    // lockActionEvent: trigger\n    'trigger': {\n        '0': 'Application',\n        '2': 'Bouton',\n        '3': 'Automatique',\n        '6': 'Verrouillage auto'\n    },\n    // Nuki state to Home Assistant lock state\n    'lock': {\n        'smartlock': {\n            '1': 'LOCKED',\n            '2': 'UNLOCKING',\n            '3': 'UNLOCKED',\n            '4': 'LOCKING',\n            '5': 'OPEN',\n            '6': 'UNLOCKED',\n            '7': 'OPENING',\n            '254': 'JAMMED'\n        },\n        'opener': {\n            '1': 'LOCKED',\n            '3': 'UNLOCKED',\n            '5': 'OPEN',\n            '7': 'OPENING'\n        }\n    },\n    // Home Assistant lock command to Nuki lock action\n    'command': {\n        'smartlock': { 'LOCK': 2, 'UNLOCK': 1, 'OPEN': 3 },\n        'opener': { 'LOCK': 2, 'UNLOCK': 1, 'OPEN': 3 }\n    }\n};\n\nconst e = msg.payload.enum;\n\n// control entry: [name, entity, group, type, unit, default value, options: {key: name}, ha type, ha state_class, ha device_class, device field]\nmsg.payload.control = {\n    'smartlock': {\n        'lock': ['Serrure', 'lock', 'command', 'enum', '', '', e.lock.smartlock, 'lock', '', '', 'state'],\n        'action': ['Action', 'action', 'command', 'enum', '', '', e.action.smartlock, 'select', '', '', 'action'],\n        'state': ['Etat', 'state', 'sensor', 'enum', '', '255', e.state.smartlock, 'sensor', '', 'enum', 'state'],\n        'mode': ['Mode', 'mode', 'sensor', 'enum', '', '2', e.mode, 'sensor', '', 'enum', 'mode'],\n        'batteryChargeState': ['Batterie', 'battery', 'sensor', 'number', '%', 0, {}, 'sensor', 'measurement', 'battery', 'batteryChargeState'],\n        'batteryCritical': ['Batterie faible', 'batteryCritical', 'sensor', 'binary', '', false, {}, 'binary_sensor', '', 'battery', 'batteryCritical'],\n        'batteryCharging': ['Batterie en charge', 'batteryCharging', 'sensor', 'binary', '', false, {}, 'binary_sensor', '', 'battery_charging', 'batteryCharging'],\n        'keypadBatteryCritical': ['Batterie clavier faible', 'keypadBatteryCritical', 'sensor', 'binary', '', false, {}, 'binary_sensor', '', 'battery', 'keypadBatteryCritical'],\n        'doorsensorState': ['Capteur de porte', 'doorsensorState', 'sensor', 'enum', '', '255', e.doorsensorState, 'sensor', '', 'enum', 'doorsensorState'],\n        'door': ['Porte ouverte', 'door', 'sensor', 'door', '', false, {}, 'binary_sensor', '', 'door', 'doorsensorState'],\n        'doorsensorBatteryCritical': ['Batterie capteur faible', 'doorsensorBatteryCritical', 'sensor', 'binary', '', false, {}, 'binary_sensor', '', 'battery', 'doorsensorBatteryCritical'],\n        'lastAction': ['Dernière action', 'lastAction', 'sensor', 'text', '', '', {}, 'sensor', '', '', 'lastAction'],\n        'timestamp': ['Mise à jour', 'timestamp', 'sensor', 'text', '', '', {}, 'sensor', '', 'timestamp', 'timestamp'],\n        'firmware': ['Firmware', 'firmware', 'sensor', 'text', '', '', {}, 'sensor', '', '', 'firmware']\n    },\n    'opener': {\n        'lock': ['Ouverture', 'lock', 'command', 'enum', '', '', e.lock.opener, 'lock', '', '', 'state'],\n        'action': ['Action', 'action', 'command', 'enum', '', '', e.action.opener, 'select', '', '', 'action'],\n        'state': ['Etat', 'state', 'sensor', 'enum', '', '255', e.state.opener, 'sensor', '', 'enum', 'state'],\n        'mode': ['Mode', 'mode', 'sensor', 'enum', '', '2', e.mode, 'sensor', '', 'enum', 'mode'],\n        'batteryCritical': ['Batterie faible', 'batteryCritical', 'sensor', 'binary', '', false, {}, 'binary_sensor', '', 'battery', 'batteryCritical'],\n        'ringactionState': ['Sonnette', 'ring', 'sensor', 'binary', '', false, {}, 'binary_sensor', '', 'sound', 'ringactionState'],\n        'ringactionTimestamp': ['Dernier coup de sonnette', 'ringTimestamp', 'sensor', 'text', '', '', {}, 'sensor', '', 'timestamp', 'ringactionTimestamp'],\n        'lastAction': ['Dernière action', 'lastAction', 'sensor', 'text', '', '', {}, 'sensor', '', '', 'lastAction'],\n        'timestamp': ['Mise à jour', 'timestamp', 'sensor', 'text', '', '', {}, 'sensor', '', 'timestamp', 'timestamp'],\n        'firmware': ['Firmware', 'firmware', 'sensor', 'text', '', '', {}, 'sensor', '', '', 'firmware']\n    }\n};\n\nreturn msg;",
+        "wires": [
+            [
+                "6c2a140d445208f5"
+            ]
+        ],
+        "x": 390,
+        "y": 80
+    },
+    {
+        "id": "6c2a140d445208f5",
+        "type": "link out",
+        "z": "48135a54600713e8",
+        "g": "09bc4d2103f79a18",
+        "name": "custom - describe",
+        "mode": "return",
+        "wires": [],
+        "links": [],
+        "x": 590,
+        "y": 80
+    },
+    {
+        "id": "70ec9d97a8404d3b",
+        "type": "link in",
+        "z": "48135a54600713e8",
+        "g": "960e4b8030a923ea",
+        "name": "custom - menu",
+        "wires": [
+            [
+                "9431d06e2f834cfd"
+            ]
+        ],
+        "links": [
+            "d3965b3ecbc6aae9"
+        ],
+        "x": 190,
+        "y": 202
+    },
+    {
+        "id": "9431d06e2f834cfd",
+        "type": "ui-template",
+        "z": "48135a54600713e8",
+        "g": "960e4b8030a923ea",
+        "name": "custom - menu",
+        "group": "",
+        "page": "",
+        "ui": "df7710b4b2c4e55b",
+        "order": 0,
+        "width": 0,
+        "height": 0,
+        "head": "",
+        "storeOutMessages": true,
+        "passthru": false,
+        "resendOnRefresh": true,
+        "templateScope": "widget:ui",
+        "className": "",
+        "format": "<template>\n    <Teleport v-if=\"mounted\" to=\"#oe_header\">\n        <v-toolbar class=\"oe_nav\"> \n        <v-btn-group variant=\"outlined\" divided>\n            <v-btn v-if=\"oe_menus.detail\" @click=\"oe_nav('detail')\" :title=\"oe_titles.detail\" icon=\"mdi-eye\"></v-btn> \n            <v-btn v-if=\"oe_menus.add\" @click=\"oe_nav('add')\" :title=\"oe_titles.add\" icon=\"mdi-plus-thick\"></v-btn> \n            <v-btn v-if=\"oe_menus.mqtt\" @click=\"oe_nav('mqtt')\" :title=\"oe_titles.mqtt\" icon=\"mdi-cog\"></v-btn> \n        </v-btn-group>\n        <v-toolbar-title :text=\"msg.title\"></v-toolbar-title>\n        <v-btn :href=\"msg.git\"><img height=\"32px\" src=\"/icon.png\" :title=\"msg.full\"></img></v-btn>\n        </v-toolbar>\n    </Teleport>\n</template>\n\n<script>\n    export default {\n        data() {\n            return {\n                oe_menus: { detail: true, add: true, mqtt: true },\n                oe_titles: { detail: '', add: '', mqtt: '' },\n                mounted: false\n            }\n        },\n        mounted() {\n            let div = document.createElement(\"div\");\n            div.id=\"oe_header\";\n            const el = document.body.querySelector(\"#app\").prepend(div);\n            this.mounted = true;\n        },\n        methods: {\n            oe_nav: function (page) {\n                this.send(page)\n            }\n        },\n        watch: {\n            msg: function (msg) {\n                document.documentElement.setAttribute(\"lang\", msg.lang);\n                document.documentElement.setAttribute(\"translate\", \"no\");\n                document.title = msg.title;\n                this.oe_menus = msg.menus;\n                this.oe_titles = msg.titles;\n            }\n        }\n    }\n\n</script>",
+        "wires": [
+            [
+                "ab9cd418038cefb2"
+            ]
+        ],
+        "x": 390,
+        "y": 202
+    },
+    {
+        "id": "ab9cd418038cefb2",
+        "type": "link out",
+        "z": "48135a54600713e8",
+        "g": "960e4b8030a923ea",
+        "name": "custom - menu",
+        "mode": "link",
+        "wires": [],
+        "links": [
+            "7adf1bcdd6df3b31"
+        ],
+        "x": 590,
+        "y": 202
+    },
+    {
+        "id": "0b74e405a88fea2e",
+        "type": "inject",
+        "z": "48135a54600713e8",
+        "g": "ec0ffc4dca815ffd",
+        "name": "reset",
+        "props": [
+            {
+                "p": "payload"
+            },
+            {
+                "p": "topic",
+                "vt": "str"
+            }
+        ],
+        "repeat": "",
+        "crontab": "00 03 * * *",
+        "once": false,
+        "onceDelay": 0.1,
+        "topic": "",
+        "payload": "",
+        "payloadType": "str",
+        "wires": [
+            [
+                "a14ae55f0d865ce9"
+            ]
+        ],
+        "x": 190,
+        "y": 324
+    },
+    {
+        "id": "a14ae55f0d865ce9",
+        "type": "function",
+        "z": "48135a54600713e8",
+        "g": "ec0ffc4dca815ffd",
+        "name": "data",
+        "outputs": 0,
+        "timeout": 0,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "func": "flow.set('last', { }, 'memoryOnly');\n\nreturn;",
+        "wires": [],
+        "x": 390,
+        "y": 324
+    },
+    {
+        "id": "2f53d1b23dabd502",
+        "type": "inject",
+        "z": "48135a54600713e8",
+        "g": "9fbfeb89a4293a05",
+        "name": "30 s",
+        "props": [
+            {
+                "p": "payload"
+            },
+            {
+                "p": "topic",
+                "vt": "str"
+            }
+        ],
+        "repeat": "30",
+        "crontab": "",
+        "once": true,
+        "onceDelay": "10",
+        "topic": "",
+        "payload": "",
+        "payloadType": "str",
+        "wires": [
+            [
+                "39dca1c701d6bec0"
+            ]
+        ],
+        "x": 190,
+        "y": 446
+    },
+    {
+        "id": "0fd669297ef578d1",
+        "type": "link in",
+        "z": "48135a54600713e8",
+        "g": "9fbfeb89a4293a05",
+        "name": "custom - port",
+        "wires": [
+            [
+                "39dca1c701d6bec0"
+            ]
+        ],
+        "links": [
+            "7924fbb6803f05ab",
+            "714b50f6d35ecd51"
+        ],
+        "x": 190,
+        "y": 506
+    },
+    {
+        "id": "39dca1c701d6bec0",
+        "type": "function",
+        "z": "48135a54600713e8",
+        "g": "9fbfeb89a4293a05",
+        "name": "list",
+        "outputs": 1,
+        "timeout": 0,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "func": "// Prepare Nuki Bridge /list queries (cached device states, no Bluetooth wake up)\n// msg.topic can be a bridge host to query only this bridge\n\nconst crypto = global.get('crypto');\nconst bridges = global.get('bridges', 'default') || {};\n\nfunction base(b) {\n    return 'http://' + b.host + ':' + (b.port || 8080);\n}\n\nfunction auth(b) {\n    if (b.hashed === true && crypto) {\n        const ts = new Date().toISOString().slice(0, 19) + 'Z';\n        const rnr = Math.floor(Math.random() * 65535);\n        const hash = crypto.createHash('sha256').update(ts + ',' + rnr + ',' + b.token).digest('hex');\n\n        return 'ts=' + encodeURIComponent(ts) + '&rnr=' + rnr + '&hash=' + hash;\n    }\n\n    return 'token=' + encodeURIComponent(b.token || '');\n}\n\nfor (const host in bridges) {\n    if (typeof msg.topic === 'string' && msg.topic !== '' && typeof bridges[msg.topic] === 'object' && msg.topic !== host) {\n\n        continue;\n    }\n\n    node.send({\n        'topic': host,\n        'url': base(bridges[host]) + '/list?' + auth(bridges[host])\n    });\n}\n\nreturn;",
+        "wires": [
+            [
+                "353b08c4b6b02c45"
+            ]
+        ],
+        "x": 390,
+        "y": 446
+    },
+    {
+        "id": "353b08c4b6b02c45",
+        "type": "delay",
+        "z": "48135a54600713e8",
+        "g": "9fbfeb89a4293a05",
+        "name": "1/s",
+        "pauseType": "rate",
+        "timeout": "5",
+        "timeoutUnits": "seconds",
+        "rate": "1",
+        "nbRateUnits": "1",
+        "rateUnits": "second",
+        "randomFirst": "1",
+        "randomLast": "5",
+        "randomUnits": "seconds",
+        "drop": false,
+        "allowrate": false,
+        "outputs": 1,
+        "wires": [
+            [
+                "20d0ab4fd164951c"
+            ]
+        ],
+        "x": 590,
+        "y": 446
+    },
+    {
+        "id": "20d0ab4fd164951c",
+        "type": "http request",
+        "z": "48135a54600713e8",
+        "g": "9fbfeb89a4293a05",
+        "name": "",
+        "method": "GET",
+        "ret": "obj",
+        "paytoqs": "ignore",
+        "url": "",
+        "tls": "",
+        "persist": false,
+        "proxy": "",
+        "insecureHTTPParser": false,
+        "authType": "",
+        "senderr": false,
+        "headers": [],
+        "wires": [
+            [
+                "1ff896cfc6f43e7c"
+            ]
+        ],
+        "x": 790,
+        "y": 446
+    },
+    {
+        "id": "1ff896cfc6f43e7c",
+        "type": "switch",
+        "z": "48135a54600713e8",
+        "g": "9fbfeb89a4293a05",
+        "name": "status",
+        "checkall": "false",
+        "repair": false,
+        "property": "statusCode",
+        "propertyType": "msg",
+        "rules": [
+            {
+                "t": "eq",
+                "v": "200",
+                "vt": "num"
+            },
+            {
+                "t": "else"
+            }
+        ],
+        "outputs": 2,
+        "wires": [
+            [
+                "301c5336631ec359"
+            ],
+            [
+                "3ab440248ede4752"
+            ]
+        ],
+        "x": 990,
+        "y": 446
+    },
+    {
+        "id": "301c5336631ec359",
+        "type": "function",
+        "z": "48135a54600713e8",
+        "g": "9fbfeb89a4293a05",
+        "name": "parse",
+        "outputs": 2,
+        "timeout": 0,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "func": "// Parse Nuki Bridge /list response and store devices in memory\n// output 1: one message per device (topic = device id) / output 2: new device found\n\nconst describe = global.get('describe', 'memoryOnly') || {};\nconst bridges = global.get('bridges', 'default') || {};\nconst devices = global.get('devices', 'memoryOnly') || {};\nconst host = msg.topic;\n\nif (!Array.isArray(msg.payload) || typeof bridges[host] !== 'object') {\n    node.status({ fill: 'red', shape: 'ring', text: host + ' : réponse invalide' });\n\n    return;\n}\n\nlet added = false;\nlet count = 0;\n\nfor (const item of msg.payload) {\n    if (typeof item !== 'object' || item === null || typeof item.nukiId !== 'number') {\n\n        continue;\n    }\n\n    // Nuki ID in hexadecimal as printed on the device and used by Nuki MQTT API\n    const id = item.nukiId.toString(16).toUpperCase().padStart(8, '0');\n    const type = Number(item.deviceType || 0);\n    const previous = devices[id] || {};\n\n    if (typeof devices[id] !== 'object') {\n        added = true;\n    }\n\n    devices[id] = {\n        ...previous,\n        ...(item.lastKnownState || {}),\n        'id': id,\n        'nukiId': item.nukiId,\n        'deviceType': type,\n        'family': (describe.family || {})[String(type)] || 'smartlock',\n        'model': (describe.model || {})[String(type)] || 'Nuki (' + type + ')',\n        'name': item.name || previous.name || id,\n        'firmware': item.firmwareVersion || previous.firmware,\n        'source': 'bridge',\n        'bridge': host,\n        'updated': Date.now()\n    };\n    count++;\n\n    node.send([{ 'topic': id, 'payload': id }, null]);\n}\n\nglobal.set('devices', devices, 'memoryOnly');\n\nnode.status({ fill: 'green', shape: 'dot', text: (bridges[host].name || host) + ' : ' + count + ' appareil(s)' });\n\nif (added) {\n    node.send([null, { 'topic': 'discovery', 'payload': '' }]);\n}\n\nreturn;",
+        "wires": [
+            [
+                "5effca61099c2926",
+                "76c47dff142a5662"
+            ],
+            [
+                "f51dd6a28819f7e8"
+            ]
+        ],
+        "x": 1190,
+        "y": 446
+    },
+    {
+        "id": "3ab440248ede4752",
+        "type": "function",
+        "z": "48135a54600713e8",
+        "g": "9fbfeb89a4293a05",
+        "name": "error",
+        "outputs": 1,
+        "timeout": 0,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "func": "// Bridge unreachable or invalid token\n\nconst bridges = global.get('bridges', 'default') || {};\nconst bridge = bridges[msg.topic] || {};\nconst name = bridge.name || msg.topic || '';\n\nif (msg.statusCode === 401 || msg.statusCode === 403) {\n    msg.payload = 'Bridge ' + name + ' : jeton refusé (vérifier le jeton ou l\\'horloge si le jeton chiffré est activé)';\n} else {\n    msg.payload = 'Bridge ' + name + ' : injoignable';\n}\n\nnode.status({ fill: 'red', shape: 'ring', text: msg.payload });\n\nreturn msg;",
+        "wires": [
+            [
+                "e72c5d6344f363c3"
+            ]
+        ],
+        "x": 1190,
+        "y": 506
+    },
+    {
+        "id": "e72c5d6344f363c3",
+        "type": "delay",
+        "z": "48135a54600713e8",
+        "g": "9fbfeb89a4293a05",
+        "name": "1/10min",
+        "pauseType": "rate",
+        "timeout": "5",
+        "timeoutUnits": "seconds",
+        "rate": "1",
+        "nbRateUnits": "10",
+        "rateUnits": "minute",
+        "randomFirst": "1",
+        "randomLast": "5",
+        "randomUnits": "seconds",
+        "drop": true,
+        "allowrate": false,
+        "outputs": 1,
+        "wires": [
+            [
+                "2ae2dbe8a0c52503"
+            ]
+        ],
+        "x": 1390,
+        "y": 506
+    },
+    {
+        "id": "2ae2dbe8a0c52503",
+        "type": "link out",
+        "z": "48135a54600713e8",
+        "g": "9fbfeb89a4293a05",
+        "name": "custom - port - error",
+        "mode": "link",
+        "wires": [],
+        "links": [
+            "fc147ee782462bbe"
+        ],
+        "x": 1590,
+        "y": 506
+    },
+    {
+        "id": "5effca61099c2926",
+        "type": "trigger",
+        "z": "48135a54600713e8",
+        "g": "9fbfeb89a4293a05",
+        "name": "250ms",
+        "op1": "",
+        "op2": "",
+        "op1type": "nul",
+        "op2type": "payl",
+        "duration": "250",
+        "extend": true,
+        "overrideDelay": false,
+        "units": "ms",
+        "reset": "",
+        "bytopic": "topic",
+        "topic": "topic",
+        "outputs": 1,
+        "wires": [
+            [
+                "e7dda238cf63c8a8"
+            ]
+        ],
+        "x": 1390,
+        "y": 446
+    },
+    {
+        "id": "e7dda238cf63c8a8",
+        "type": "function",
+        "z": "48135a54600713e8",
+        "g": "9fbfeb89a4293a05",
+        "name": "mqtt",
+        "outputs": 1,
+        "timeout": 0,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "func": "// Publish changed values of a device to DKNR MQTT topic: topic / get / nuki / id / entity\n\nconst enabled = global.get('mqtt.enabled', 'default') || false;\nconst topic = global.get('mqtt.topic', 'default') || '';\nconst describe = global.get('describe', 'memoryOnly') || {};\nconst devices = global.get('devices', 'memoryOnly') || {};\nconst source = 'nuki';\nconst id = msg.topic;\nconst dev = devices[id];\n\nif (!enabled || topic === '' || typeof dev !== 'object') {\n\n    return;\n}\n\nfunction value(dev, def) {\n    const raw = dev[def[10]];\n    if (raw === undefined || raw === null || raw === '') {\n\n        return undefined;\n    }\n    if (def[3] === 'enum') {\n\n        return def[6][String(raw)];\n    }\n    if (def[3] === 'binary') {\n\n        return raw === true || raw === 1 ? 'ON' : 'OFF';\n    }\n    if (def[3] === 'door') {\n\n        return raw === 3 ? 'ON' : (raw === 2 ? 'OFF' : undefined);\n    }\n\n    return raw;\n}\n\nconst control = (describe.control || {})[dev.family] || {};\n\nfor (const k in control) {\n    const v = value(dev, control[k]);\n    if (v === undefined) {\n\n        continue;\n    }\n\n    const last = 'last[\"' + id + '_' + control[k][1] + '\"]';\n    if (flow.get(last, 'memoryOnly') === v) {\n\n        continue;\n    }\n    flow.set(last, v, 'memoryOnly');\n\n    node.send({\n        'topic': [topic, 'get', source, id, control[k][1]].join('/'),\n        'payload': v,\n        'qos': 0,\n        'retain': true\n    });\n}\n\nreturn;",
+        "wires": [
+            [
+                "f72ea61fcf914430"
+            ]
+        ],
+        "x": 1590,
+        "y": 446
+    },
+    {
+        "id": "f72ea61fcf914430",
+        "type": "link out",
+        "z": "48135a54600713e8",
+        "g": "9fbfeb89a4293a05",
+        "name": "custom - port - mqtt",
+        "mode": "link",
+        "wires": [],
+        "links": [
+            "d5bdaec879cbd196"
+        ],
+        "x": 1790,
+        "y": 446
+    },
+    {
+        "id": "f51dd6a28819f7e8",
+        "type": "link out",
+        "z": "48135a54600713e8",
+        "g": "9fbfeb89a4293a05",
+        "name": "custom - port - discovery",
+        "mode": "link",
+        "wires": [],
+        "links": [
+            "b898845c38151a25"
+        ],
+        "x": 1390,
+        "y": 566
+    },
+    {
+        "id": "76c47dff142a5662",
+        "type": "debug",
+        "z": "48135a54600713e8",
+        "g": "9fbfeb89a4293a05",
+        "name": "custom - port",
+        "active": false,
+        "tosidebar": true,
+        "console": false,
+        "tostatus": false,
+        "complete": "true",
+        "targetType": "full",
+        "statusVal": "",
+        "statusType": "auto",
+        "wires": [],
+        "x": 1790,
+        "y": 506
+    },
+    {
+        "id": "0eac346cb9f91be8",
+        "type": "http in",
+        "z": "48135a54600713e8",
+        "g": "68e4ce8d19eca915",
+        "name": "",
+        "method": "post",
+        "upload": false,
+        "skipBodyParsing": false,
+        "swaggerDoc": "",
+        "url": "/nuki/callback",
+        "wires": [
+            [
+                "30e85fa81763484e",
+                "fba86ae8a1d61eff"
+            ]
+        ],
+        "x": 190,
+        "y": 688
+    },
+    {
+        "id": "fba86ae8a1d61eff",
+        "type": "http response",
+        "z": "48135a54600713e8",
+        "g": "68e4ce8d19eca915",
+        "name": "",
+        "statusCode": "200",
+        "headers": {},
+        "wires": [],
+        "x": 390,
+        "y": 748
+    },
+    {
+        "id": "30e85fa81763484e",
+        "type": "function",
+        "z": "48135a54600713e8",
+        "g": "68e4ce8d19eca915",
+        "name": "parse",
+        "outputs": 1,
+        "timeout": 0,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "func": "// Nuki Bridge callback: instant state change of a known device\n// payload: {nukiId, deviceType, mode, state, stateName, batteryCritical, ...}\n\nlet data = msg.payload;\nif (typeof data === 'string') {\n    try {\n        data = JSON.parse(data);\n    } catch (e) {\n\n        return;\n    }\n}\n\nif (typeof data !== 'object' || data === null || typeof data.nukiId !== 'number') {\n\n    return;\n}\n\nconst devices = global.get('devices', 'memoryOnly') || {};\nconst id = data.nukiId.toString(16).toUpperCase().padStart(8, '0');\n\n// Unknown device, it will be added on next bridge query\nif (typeof devices[id] !== 'object') {\n\n    return;\n}\n\nconst { nukiId, deviceType, ...state } = data;\n\ndevices[id] = {\n    ...devices[id],\n    ...state,\n    'updated': Date.now()\n};\n\nglobal.set('devices', devices, 'memoryOnly');\n\nnode.status({ fill: 'green', shape: 'dot', text: id + ' - ' + (state.stateName || state.state) });\n\nreturn { 'topic': id, 'payload': id };",
+        "wires": [
+            [
+                "9c0f9a2dd170d2a8"
+            ]
+        ],
+        "x": 390,
+        "y": 688
+    },
+    {
+        "id": "9c0f9a2dd170d2a8",
+        "type": "link out",
+        "z": "48135a54600713e8",
+        "g": "68e4ce8d19eca915",
+        "name": "custom - callback",
+        "mode": "link",
+        "wires": [],
+        "links": [
+            "0202e88315f2e15b"
+        ],
+        "x": 590,
+        "y": 688
+    },
+    {
+        "id": "aa5d8fdb64d8eead",
+        "type": "link in",
+        "z": "48135a54600713e8",
+        "g": "12443c466363a8cf",
+        "name": "custom - callback - register",
+        "wires": [
+            [
+                "af22b52b6d4b7d6e"
+            ]
+        ],
+        "links": [
+            "d0ee4b417bfa2bb7",
+            "714b50f6d35ecd51"
+        ],
+        "x": 190,
+        "y": 870
+    },
+    {
+        "id": "af22b52b6d4b7d6e",
+        "type": "delay",
+        "z": "48135a54600713e8",
+        "g": "12443c466363a8cf",
+        "name": "5s",
+        "pauseType": "delay",
+        "timeout": "5",
+        "timeoutUnits": "seconds",
+        "rate": "1",
+        "nbRateUnits": "1",
+        "rateUnits": "second",
+        "randomFirst": "1",
+        "randomLast": "5",
+        "randomUnits": "seconds",
+        "drop": false,
+        "allowrate": false,
+        "outputs": 1,
+        "wires": [
+            [
+                "f76b7f0375f042c1"
+            ]
+        ],
+        "x": 390,
+        "y": 870
+    },
+    {
+        "id": "f76b7f0375f042c1",
+        "type": "function",
+        "z": "48135a54600713e8",
+        "g": "12443c466363a8cf",
+        "name": "list",
+        "outputs": 1,
+        "timeout": 0,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "func": "// Read callbacks registered on bridges having a callback URL\n\nconst crypto = global.get('crypto');\nconst bridges = global.get('bridges', 'default') || {};\n\nfunction base(b) {\n    return 'http://' + b.host + ':' + (b.port || 8080);\n}\n\nfunction auth(b) {\n    if (b.hashed === true && crypto) {\n        const ts = new Date().toISOString().slice(0, 19) + 'Z';\n        const rnr = Math.floor(Math.random() * 65535);\n        const hash = crypto.createHash('sha256').update(ts + ',' + rnr + ',' + b.token).digest('hex');\n\n        return 'ts=' + encodeURIComponent(ts) + '&rnr=' + rnr + '&hash=' + hash;\n    }\n\n    return 'token=' + encodeURIComponent(b.token || '');\n}\n\nfor (const host in bridges) {\n    if (typeof bridges[host].callback !== 'string' || bridges[host].callback === '') {\n\n        continue;\n    }\n\n    node.send({\n        'topic': host,\n        'url': base(bridges[host]) + '/callback/list?' + auth(bridges[host])\n    });\n}\n\nreturn;",
+        "wires": [
+            [
+                "a18090b62b3f80cc"
+            ]
+        ],
+        "x": 590,
+        "y": 870
+    },
+    {
+        "id": "a18090b62b3f80cc",
+        "type": "delay",
+        "z": "48135a54600713e8",
+        "g": "12443c466363a8cf",
+        "name": "1/s",
+        "pauseType": "rate",
+        "timeout": "5",
+        "timeoutUnits": "seconds",
+        "rate": "1",
+        "nbRateUnits": "1",
+        "rateUnits": "second",
+        "randomFirst": "1",
+        "randomLast": "5",
+        "randomUnits": "seconds",
+        "drop": false,
+        "allowrate": false,
+        "outputs": 1,
+        "wires": [
+            [
+                "8441d8dc77ba1615"
+            ]
+        ],
+        "x": 790,
+        "y": 870
+    },
+    {
+        "id": "8441d8dc77ba1615",
+        "type": "http request",
+        "z": "48135a54600713e8",
+        "g": "12443c466363a8cf",
+        "name": "",
+        "method": "GET",
+        "ret": "obj",
+        "paytoqs": "ignore",
+        "url": "",
+        "tls": "",
+        "persist": false,
+        "proxy": "",
+        "insecureHTTPParser": false,
+        "authType": "",
+        "senderr": false,
+        "headers": [],
+        "wires": [
+            [
+                "885e50ed39de0bf0"
+            ]
+        ],
+        "x": 990,
+        "y": 870
+    },
+    {
+        "id": "885e50ed39de0bf0",
+        "type": "function",
+        "z": "48135a54600713e8",
+        "g": "12443c466363a8cf",
+        "name": "check",
+        "outputs": 2,
+        "timeout": 0,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "func": "// Register callback URL on bridge if missing\n// output 1: bridge http query / output 2: notification\n\nconst crypto = global.get('crypto');\nconst bridges = global.get('bridges', 'default') || {};\nconst b = bridges[msg.topic];\n\nfunction base(b) {\n    return 'http://' + b.host + ':' + (b.port || 8080);\n}\n\nfunction auth(b) {\n    if (b.hashed === true && crypto) {\n        const ts = new Date().toISOString().slice(0, 19) + 'Z';\n        const rnr = Math.floor(Math.random() * 65535);\n        const hash = crypto.createHash('sha256').update(ts + ',' + rnr + ',' + b.token).digest('hex');\n\n        return 'ts=' + encodeURIComponent(ts) + '&rnr=' + rnr + '&hash=' + hash;\n    }\n\n    return 'token=' + encodeURIComponent(b.token || '');\n}\n\nif (typeof b !== 'object' || typeof b.callback !== 'string' || b.callback === '') {\n\n    return;\n}\n\nlet data = msg.payload;\nif (typeof data === 'string') {\n    try {\n        data = JSON.parse(data);\n    } catch (e) {\n        data = {};\n    }\n}\n\nif (msg.statusCode !== 200 || typeof data !== 'object' || data === null || !Array.isArray(data.callbacks)) {\n    node.status({ fill: 'red', shape: 'ring', text: b.name + ' : lecture impossible' });\n\n    return [null, { 'payload': 'Bridge ' + b.name + ' : impossible de lire les callbacks' }];\n}\n\nif (data.callbacks.some(c => c.url === b.callback)) {\n    node.status({ fill: 'green', shape: 'dot', text: b.name + ' : callback ok' });\n\n    return;\n}\n\nif (data.callbacks.length >= 3) {\n    node.status({ fill: 'red', shape: 'ring', text: b.name + ' : 3 callbacks' });\n\n    return [null, { 'payload': 'Bridge ' + b.name + ' : 3 callbacks déjà enregistrés, supprimez-en un' }];\n}\n\nreturn [{\n    'topic': msg.topic,\n    'url': base(b) + '/callback/add?url=' + encodeURIComponent(b.callback) + '&' + auth(b)\n}, null];",
+        "wires": [
+            [
+                "f4e1bfe0f549df7a"
+            ],
+            [
+                "6fce3de8054ff7c9"
+            ]
+        ],
+        "x": 1190,
+        "y": 870
+    },
+    {
+        "id": "f4e1bfe0f549df7a",
+        "type": "http request",
+        "z": "48135a54600713e8",
+        "g": "12443c466363a8cf",
+        "name": "",
+        "method": "GET",
+        "ret": "obj",
+        "paytoqs": "ignore",
+        "url": "",
+        "tls": "",
+        "persist": false,
+        "proxy": "",
+        "insecureHTTPParser": false,
+        "authType": "",
+        "senderr": false,
+        "headers": [],
+        "wires": [
+            [
+                "ba1f6c26395a15bd"
+            ]
+        ],
+        "x": 1390,
+        "y": 870
+    },
+    {
+        "id": "ba1f6c26395a15bd",
+        "type": "function",
+        "z": "48135a54600713e8",
+        "g": "12443c466363a8cf",
+        "name": "result",
+        "outputs": 1,
+        "timeout": 0,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "func": "// Bridge /callback/add response\n\nconst bridges = global.get('bridges', 'default') || {};\nconst name = (bridges[msg.topic] || {}).name || msg.topic;\n\nlet data = msg.payload;\nif (typeof data === 'string') {\n    try {\n        data = JSON.parse(data);\n    } catch (e) {\n        data = {};\n    }\n}\n\nif (msg.statusCode === 200 && typeof data === 'object' && data !== null && data.success === true) {\n    node.status({ fill: 'green', shape: 'dot', text: name + ' : callback ajouté' });\n\n    return;\n}\n\nnode.status({ fill: 'red', shape: 'ring', text: name + ' : callback refusé' });\n\nreturn { 'payload': 'Bridge ' + name + ' : callback refusé' + (data && data.message ? ' (' + data.message + ')' : '') };",
+        "wires": [
+            [
+                "6fce3de8054ff7c9"
+            ]
+        ],
+        "x": 1590,
+        "y": 870
+    },
+    {
+        "id": "6fce3de8054ff7c9",
+        "type": "link out",
+        "z": "48135a54600713e8",
+        "g": "12443c466363a8cf",
+        "name": "custom - callback - error",
+        "mode": "link",
+        "wires": [],
+        "links": [
+            "fc147ee782462bbe"
+        ],
+        "x": 1790,
+        "y": 930
+    },
+    {
+        "id": "f33f476ad3919afa",
+        "type": "link in",
+        "z": "48135a54600713e8",
+        "g": "f3337597621ea0ae",
+        "name": "custom - port - in",
+        "wires": [
+            [
+                "765ee0d160a6658a",
+                "0c231676cc0a840b"
+            ]
+        ],
+        "links": [
+            "25ce94531dd6fbe4"
+        ],
+        "x": 190,
+        "y": 1052
+    },
+    {
+        "id": "765ee0d160a6658a",
+        "type": "switch",
+        "z": "48135a54600713e8",
+        "g": "f3337597621ea0ae",
+        "name": "route",
+        "checkall": "false",
+        "repair": false,
+        "property": "topic",
+        "propertyType": "msg",
+        "rules": [
+            {
+                "t": "regex",
+                "v": "^nuki/",
+                "vt": "str",
+                "case": false
+            },
+            {
+                "t": "regex",
+                "v": "/set/nuki/",
+                "vt": "str",
+                "case": false
+            }
+        ],
+        "outputs": 2,
+        "wires": [
+            [
+                "36e537dd1f647925"
+            ],
+            [
+                "625707577bb3acf6"
+            ]
+        ],
+        "x": 390,
+        "y": 1052
+    },
+    {
+        "id": "36e537dd1f647925",
+        "type": "function",
+        "z": "48135a54600713e8",
+        "g": "f3337597621ea0ae",
+        "name": "native",
+        "outputs": 2,
+        "timeout": 0,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "func": "// Nuki Smart Lock 3.0/4.0 native MQTT API: nuki / <nuki id hex> / <key>\n// output 1: device updated (topic = device id) / output 2: new device found\n\nif (global.get('mqtt.nukimqtt', 'default') !== true) {\n\n    return;\n}\n\nconst path = msg.topic.split('/');\nif (path.length !== 3 || path[0] !== 'nuki') {\n\n    return;\n}\n\nconst allowed = [\n    'deviceType', 'name', 'firmware', 'mode', 'state',\n    'batteryCritical', 'batteryChargeState', 'batteryCharging', 'keypadBatteryCritical',\n    'doorsensorState', 'doorsensorBatteryCritical',\n    'ringactionTimestamp', 'ringactionState',\n    'serverConnected', 'connected', 'timestamp',\n    'lockActionEvent', 'commandResponse'\n];\n\nconst id = path[1].toUpperCase();\nconst key = path[2];\n\nif (!/^[0-9A-F]{1,8}$/.test(id) || !allowed.includes(key)) {\n\n    return;\n}\n\nconst describe = global.get('describe', 'memoryOnly') || {};\nconst devices = global.get('devices', 'memoryOnly') || {};\nconst e = describe.enum || {};\n\nlet value = msg.payload;\nif (Buffer.isBuffer(value)) {\n    value = value.toString();\n}\nif (typeof value === 'string') {\n    value = value.trim();\n    if (value === 'true' || value === 'false') {\n        value = value === 'true';\n    } else if (!['name', 'firmware', 'timestamp', 'ringactionTimestamp', 'lockActionEvent'].includes(key) && value !== '' && !isNaN(value)) {\n        value = Number(value);\n    }\n}\n\nlet added = false;\nlet dev = devices[id];\nif (typeof dev !== 'object') {\n    added = true;\n    dev = {\n        'id': id,\n        'nukiId': parseInt(id, 16),\n        'deviceType': 4,\n        'family': 'smartlock',\n        'model': (describe.model || {})['4'] || 'Nuki',\n        'name': id,\n        'source': 'mqtt',\n        'bridge': ''\n    };\n}\n\ndev[key] = value;\ndev.updated = Date.now();\n\nif (key === 'deviceType') {\n    dev.family = (describe.family || {})[String(value)] || 'smartlock';\n    dev.model = (describe.model || {})[String(value)] || 'Nuki (' + value + ')';\n}\n\nif (key === 'firmware') {\n    dev.firmware = String(value);\n}\n\n// lockActionEvent: action, trigger, auth id, code id, extra\nif (key === 'lockActionEvent') {\n    const parts = String(value).split(',');\n    const actions = { ...((e.action || {})[dev.family] || {}), ...(e.event || {}) };\n    let label = actions[parts[0]] || parts[0];\n    let trigger = (e.trigger || {})[parts[1]] || '';\n    if (parts.length > 3 && parts[3] !== '0' && parts[3] !== '') {\n        trigger = 'Clavier';\n    }\n    dev.lastAction = label + (trigger !== '' ? ' (' + trigger + ')' : '');\n}\n\nif (key === 'commandResponse' && value !== 0) {\n    node.status({ fill: 'red', shape: 'ring', text: id + ' - erreur commande ' + value });\n} else {\n    node.status({ fill: 'green', shape: 'dot', text: id + ' - ' + key });\n}\n\ndevices[id] = dev;\nglobal.set('devices', devices, 'memoryOnly');\n\nif (added) {\n    node.send([null, { 'topic': 'discovery', 'payload': '' }]);\n}\n\nreturn [{ 'topic': id, 'payload': id }, null];",
+        "wires": [
+            [
+                "dbe9cc0349e71ca4"
+            ],
+            [
+                "5af38ecdbdf33bf5"
+            ]
+        ],
+        "x": 590,
+        "y": 1052
+    },
+    {
+        "id": "dbe9cc0349e71ca4",
+        "type": "trigger",
+        "z": "48135a54600713e8",
+        "g": "f3337597621ea0ae",
+        "name": "250ms",
+        "op1": "",
+        "op2": "",
+        "op1type": "nul",
+        "op2type": "payl",
+        "duration": "250",
+        "extend": true,
+        "overrideDelay": false,
+        "units": "ms",
+        "reset": "",
+        "bytopic": "topic",
+        "topic": "topic",
+        "outputs": 1,
+        "wires": [
+            [
+                "6162222a2a048cb7"
+            ]
+        ],
+        "x": 790,
+        "y": 1052
+    },
+    {
+        "id": "6162222a2a048cb7",
+        "type": "link out",
+        "z": "48135a54600713e8",
+        "g": "f3337597621ea0ae",
+        "name": "custom - port - native",
+        "mode": "link",
+        "wires": [],
+        "links": [
+            "0202e88315f2e15b"
+        ],
+        "x": 990,
+        "y": 1052
+    },
+    {
+        "id": "5af38ecdbdf33bf5",
+        "type": "trigger",
+        "z": "48135a54600713e8",
+        "g": "f3337597621ea0ae",
+        "name": "3s",
+        "op1": "",
+        "op2": "",
+        "op1type": "nul",
+        "op2type": "payl",
+        "duration": "3",
+        "extend": true,
+        "overrideDelay": false,
+        "units": "s",
+        "reset": "",
+        "bytopic": "all",
+        "topic": "topic",
+        "outputs": 1,
+        "wires": [
+            [
+                "b588c637e660e571"
+            ]
+        ],
+        "x": 790,
+        "y": 1112
+    },
+    {
+        "id": "b588c637e660e571",
+        "type": "link out",
+        "z": "48135a54600713e8",
+        "g": "f3337597621ea0ae",
+        "name": "custom - port - native - discovery",
+        "mode": "link",
+        "wires": [],
+        "links": [
+            "b898845c38151a25"
+        ],
+        "x": 990,
+        "y": 1112
+    },
+    {
+        "id": "625707577bb3acf6",
+        "type": "function",
+        "z": "48135a54600713e8",
+        "g": "f3337597621ea0ae",
+        "name": "control in",
+        "outputs": 1,
+        "timeout": 0,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "func": "// DKNR command: topic / set / nuki / id / entity = value\n// lock entity: LOCK, UNLOCK, OPEN / action entity: action name or Nuki lock action number\n\nconst devices = global.get('devices', 'memoryOnly') || {};\nconst describe = global.get('describe', 'memoryOnly') || {};\n\nconst path = msg.topic.split('/');\nif (path.length < 5) {\n\n    return;\n}\n\nconst entity = path.pop();\nconst id = path.pop().toUpperCase();\nconst dev = devices[id];\nlet value = (msg.payload === undefined || msg.payload === null ? '' : msg.payload).toString().trim();\n\nnode.status({ text: id + ' - ' + entity + ' - ' + value });\n\nif (typeof dev !== 'object') {\n\n    return;\n}\n\nconst control = (describe.control || {})[dev.family] || {};\nlet def = null;\nfor (const k in control) {\n    if (control[k][1] === entity && control[k][2] === 'command') {\n        def = control[k];\n    }\n}\nif (def === null) {\n\n    return;\n}\n\nlet action = undefined;\n\nif (entity === 'lock') {\n    action = ((describe.enum.command || {})[dev.family] || {})[value.toUpperCase()];\n} else {\n    // by name (from Home Assistant select) or by number\n    for (const k in def[6]) {\n        if (def[6][k] === value || k === value) {\n            action = Number(k);\n        }\n    }\n}\n\nif (action === undefined) {\n    node.status({ fill: 'red', shape: 'ring', text: id + ' - ' + entity + ' - ' + value + ' : inconnu' });\n\n    return;\n}\n\nreturn {\n    'topic': id,\n    'payload': {\n        'id': id,\n        'action': action\n    }\n};",
+        "wires": [
+            [
+                "7c81fbab7b7e5561"
+            ]
+        ],
+        "x": 590,
+        "y": 1172
+    },
+    {
+        "id": "7c81fbab7b7e5561",
+        "type": "link out",
+        "z": "48135a54600713e8",
+        "g": "f3337597621ea0ae",
+        "name": "custom - port - control",
+        "mode": "link",
+        "wires": [],
+        "links": [
+            "97489b9c74b18279"
+        ],
+        "x": 790,
+        "y": 1172
+    },
+    {
+        "id": "0c231676cc0a840b",
+        "type": "debug",
+        "z": "48135a54600713e8",
+        "g": "f3337597621ea0ae",
+        "name": "custom - port - in",
+        "active": false,
+        "tosidebar": true,
+        "console": false,
+        "tostatus": false,
+        "complete": "true",
+        "targetType": "full",
+        "statusVal": "",
+        "statusType": "auto",
+        "wires": [],
+        "x": 590,
+        "y": 1232
+    },
+    {
+        "id": "97489b9c74b18279",
+        "type": "link in",
+        "z": "48135a54600713e8",
+        "g": "924d01db3d6fe1bb",
+        "name": "custom - pilot",
+        "wires": [
+            [
+                "a79098e276515994"
+            ]
+        ],
+        "links": [
+            "7c81fbab7b7e5561",
+            "8f4d415b32886b62"
+        ],
+        "x": 190,
+        "y": 1354
+    },
+    {
+        "id": "a79098e276515994",
+        "type": "function",
+        "z": "48135a54600713e8",
+        "g": "924d01db3d6fe1bb",
+        "name": "control",
+        "outputs": 4,
+        "timeout": 0,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "func": "// Send a lock action to a device\n// input payload: {id, action}\n// output 1: bridge http query / output 2: native MQTT command / output 3: error / output 4: device updated\n\nconst crypto = global.get('crypto');\nconst describe = global.get('describe', 'memoryOnly') || {};\nconst devices = global.get('devices', 'memoryOnly') || {};\nconst bridges = global.get('bridges', 'default') || {};\n\nfunction base(b) {\n    return 'http://' + b.host + ':' + (b.port || 8080);\n}\n\nfunction auth(b) {\n    if (b.hashed === true && crypto) {\n        const ts = new Date().toISOString().slice(0, 19) + 'Z';\n        const rnr = Math.floor(Math.random() * 65535);\n        const hash = crypto.createHash('sha256').update(ts + ',' + rnr + ',' + b.token).digest('hex');\n\n        return 'ts=' + encodeURIComponent(ts) + '&rnr=' + rnr + '&hash=' + hash;\n    }\n\n    return 'token=' + encodeURIComponent(b.token || '');\n}\n\nconst id = (msg.payload || {}).id;\nconst action = Number((msg.payload || {}).action);\nconst dev = devices[id];\n\nif (typeof dev !== 'object' || typeof ((describe.enum.action || {})[dev.family] || {})[String(action)] !== 'string') {\n    msg.payload = 'Ordre non traité';\n\n    return [null, null, msg, null];\n}\n\n// keep last requested action\ndev.action = action;\ndevices[id] = dev;\nglobal.set('devices', devices, 'memoryOnly');\n\nnode.status({ fill: 'blue', shape: 'dot', text: dev.name + ' - ' + describe.enum.action[dev.family][String(action)] });\n\nif (dev.source === 'mqtt') {\n\n    return [null, {\n        'topic': 'nuki/' + id + '/lockAction',\n        'payload': action,\n        'qos': 2,\n        'retain': false\n    }, null, { 'topic': id, 'payload': id }];\n}\n\nconst bridge = bridges[dev.bridge];\nif (typeof bridge !== 'object') {\n    msg.payload = 'Bridge de ' + dev.name + ' introuvable';\n\n    return [null, null, msg, null];\n}\n\nreturn [{\n    'topic': dev.bridge,\n    'id': id,\n    'url': base(bridge) + '/lockAction?nukiId=' + dev.nukiId + '&deviceType=' + dev.deviceType + '&action=' + action + '&nowait=1&' + auth(bridge)\n}, null, null, { 'topic': id, 'payload': id }];",
+        "wires": [
+            [
+                "f2563d6600773991",
+                "bd121e4b65b5c6fa"
+            ],
+            [
+                "5ca419aa3f742101",
+                "bd121e4b65b5c6fa"
+            ],
+            [
+                "e926a9816a0ad2d4"
+            ],
+            [
+                "5754760b9bec658a"
+            ]
+        ],
+        "x": 390,
+        "y": 1354
+    },
+    {
+        "id": "f2563d6600773991",
+        "type": "http request",
+        "z": "48135a54600713e8",
+        "g": "924d01db3d6fe1bb",
+        "name": "",
+        "method": "GET",
+        "ret": "obj",
+        "paytoqs": "ignore",
+        "url": "",
+        "tls": "",
+        "persist": false,
+        "proxy": "",
+        "insecureHTTPParser": false,
+        "authType": "",
+        "senderr": false,
+        "headers": [],
+        "wires": [
+            [
+                "e07c2fc0a6a723a6"
+            ]
+        ],
+        "x": 590,
+        "y": 1354
+    },
+    {
+        "id": "e07c2fc0a6a723a6",
+        "type": "function",
+        "z": "48135a54600713e8",
+        "g": "924d01db3d6fe1bb",
+        "name": "result",
+        "outputs": 2,
+        "timeout": 0,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "func": "// Bridge /lockAction response\n// output 1: refresh bridge devices state / output 2: error\n\nlet data = msg.payload;\nif (typeof data === 'string') {\n    try {\n        data = JSON.parse(data);\n    } catch (e) {\n        data = {};\n    }\n}\n\nif (msg.statusCode === 200 && typeof data === 'object' && data !== null && data.success === true) {\n    node.status({ fill: 'green', shape: 'dot', text: msg.id + ' : ok' });\n    msg.payload = msg.topic;\n\n    return [msg, null];\n}\n\nnode.status({ fill: 'red', shape: 'ring', text: msg.id + ' : erreur ' + msg.statusCode });\n\nif (msg.statusCode === 503) {\n    msg.payload = 'Appareil hors ligne';\n} else if (msg.statusCode === 401 || msg.statusCode === 403) {\n    msg.payload = 'Jeton du bridge refusé';\n} else {\n    msg.payload = 'Ordre non traité';\n}\n\nreturn [null, msg];",
+        "wires": [
+            [
+                "b05c777cfc9ba206"
+            ],
+            [
+                "e926a9816a0ad2d4"
+            ]
+        ],
+        "x": 790,
+        "y": 1354
+    },
+    {
+        "id": "b05c777cfc9ba206",
+        "type": "delay",
+        "z": "48135a54600713e8",
+        "g": "924d01db3d6fe1bb",
+        "name": "3s",
+        "pauseType": "delay",
+        "timeout": "3",
+        "timeoutUnits": "seconds",
+        "rate": "1",
+        "nbRateUnits": "1",
+        "rateUnits": "second",
+        "randomFirst": "1",
+        "randomLast": "5",
+        "randomUnits": "seconds",
+        "drop": false,
+        "allowrate": false,
+        "outputs": 1,
+        "wires": [
+            [
+                "7924fbb6803f05ab"
+            ]
+        ],
+        "x": 990,
+        "y": 1354
+    },
+    {
+        "id": "7924fbb6803f05ab",
+        "type": "link out",
+        "z": "48135a54600713e8",
+        "g": "924d01db3d6fe1bb",
+        "name": "custom - pilot - refresh",
+        "mode": "link",
+        "wires": [],
+        "links": [
+            "0fd669297ef578d1"
+        ],
+        "x": 1190,
+        "y": 1354
+    },
+    {
+        "id": "5ca419aa3f742101",
+        "type": "link out",
+        "z": "48135a54600713e8",
+        "g": "924d01db3d6fe1bb",
+        "name": "custom - pilot - mqtt",
+        "mode": "link",
+        "wires": [],
+        "links": [
+            "d5bdaec879cbd196"
+        ],
+        "x": 590,
+        "y": 1414
+    },
+    {
+        "id": "e926a9816a0ad2d4",
+        "type": "link out",
+        "z": "48135a54600713e8",
+        "g": "924d01db3d6fe1bb",
+        "name": "custom - pilot - error",
+        "mode": "link",
+        "wires": [],
+        "links": [
+            "fc147ee782462bbe"
+        ],
+        "x": 990,
+        "y": 1474
+    },
+    {
+        "id": "5754760b9bec658a",
+        "type": "link out",
+        "z": "48135a54600713e8",
+        "g": "924d01db3d6fe1bb",
+        "name": "custom - pilot - device",
+        "mode": "link",
+        "wires": [],
+        "links": [
+            "0202e88315f2e15b"
+        ],
+        "x": 590,
+        "y": 1534
+    },
+    {
+        "id": "bd121e4b65b5c6fa",
+        "type": "debug",
+        "z": "48135a54600713e8",
+        "g": "924d01db3d6fe1bb",
+        "name": "custom - pilot",
+        "active": false,
+        "tosidebar": true,
+        "console": false,
+        "tostatus": false,
+        "complete": "true",
+        "targetType": "full",
+        "statusVal": "",
+        "statusType": "auto",
+        "wires": [],
+        "x": 790,
+        "y": 1414
+    },
+    {
+        "id": "0202e88315f2e15b",
+        "type": "link in",
+        "z": "48135a54600713e8",
+        "g": "f0ec048ab35c0aba",
+        "name": "custom - publish",
+        "wires": [
+            [
+                "1adcf1a2138705ad"
+            ]
+        ],
+        "links": [
+            "9c0f9a2dd170d2a8",
+            "6162222a2a048cb7",
+            "5754760b9bec658a"
+        ],
+        "x": 190,
+        "y": 1656
+    },
+    {
+        "id": "1adcf1a2138705ad",
+        "type": "function",
+        "z": "48135a54600713e8",
+        "g": "f0ec048ab35c0aba",
+        "name": "mqtt",
+        "outputs": 1,
+        "timeout": 0,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "func": "// Publish changed values of a device to DKNR MQTT topic: topic / get / nuki / id / entity\n\nconst enabled = global.get('mqtt.enabled', 'default') || false;\nconst topic = global.get('mqtt.topic', 'default') || '';\nconst describe = global.get('describe', 'memoryOnly') || {};\nconst devices = global.get('devices', 'memoryOnly') || {};\nconst source = 'nuki';\nconst id = msg.topic;\nconst dev = devices[id];\n\nif (!enabled || topic === '' || typeof dev !== 'object') {\n\n    return;\n}\n\nfunction value(dev, def) {\n    const raw = dev[def[10]];\n    if (raw === undefined || raw === null || raw === '') {\n\n        return undefined;\n    }\n    if (def[3] === 'enum') {\n\n        return def[6][String(raw)];\n    }\n    if (def[3] === 'binary') {\n\n        return raw === true || raw === 1 ? 'ON' : 'OFF';\n    }\n    if (def[3] === 'door') {\n\n        return raw === 3 ? 'ON' : (raw === 2 ? 'OFF' : undefined);\n    }\n\n    return raw;\n}\n\nconst control = (describe.control || {})[dev.family] || {};\n\nfor (const k in control) {\n    const v = value(dev, control[k]);\n    if (v === undefined) {\n\n        continue;\n    }\n\n    const last = 'last[\"' + id + '_' + control[k][1] + '\"]';\n    if (flow.get(last, 'memoryOnly') === v) {\n\n        continue;\n    }\n    flow.set(last, v, 'memoryOnly');\n\n    node.send({\n        'topic': [topic, 'get', source, id, control[k][1]].join('/'),\n        'payload': v,\n        'qos': 0,\n        'retain': true\n    });\n}\n\nreturn;",
+        "wires": [
+            [
+                "a81401e76a19875a"
+            ]
+        ],
+        "x": 390,
+        "y": 1656
+    },
+    {
+        "id": "a81401e76a19875a",
+        "type": "link out",
+        "z": "48135a54600713e8",
+        "g": "f0ec048ab35c0aba",
+        "name": "custom - publish - mqtt",
+        "mode": "link",
+        "wires": [],
+        "links": [
+            "d5bdaec879cbd196"
+        ],
+        "x": 590,
+        "y": 1656
+    },
+    {
+        "id": "b898845c38151a25",
+        "type": "link in",
+        "z": "48135a54600713e8",
+        "g": "36bbd8cd168f8736",
+        "name": "custom - discovery",
+        "wires": [
+            [
+                "b2327d1a9a1b2241"
+            ]
+        ],
+        "links": [
+            "ca5c502dcbc1ee15",
+            "f51dd6a28819f7e8",
+            "b588c637e660e571"
+        ],
+        "x": 190,
+        "y": 1778
+    },
+    {
+        "id": "6b06942abfcca4be",
+        "type": "inject",
+        "z": "48135a54600713e8",
+        "g": "36bbd8cd168f8736",
+        "name": "custom - discovery",
+        "props": [
+            {
+                "p": "payload"
+            },
+            {
+                "p": "topic",
+                "vt": "str"
+            }
+        ],
+        "repeat": "",
+        "crontab": "",
+        "once": true,
+        "onceDelay": "45",
+        "topic": "",
+        "payload": "",
+        "payloadType": "str",
+        "wires": [
+            [
+                "b2327d1a9a1b2241"
+            ]
+        ],
+        "x": 190,
+        "y": 1838
+    },
+    {
+        "id": "b2327d1a9a1b2241",
+        "type": "function",
+        "z": "48135a54600713e8",
+        "g": "36bbd8cd168f8736",
+        "name": "discovery",
+        "outputs": 1,
+        "timeout": 0,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "func": "// Publish DKNR discovery and Home Assistant MQTT discovery of all known devices\n\nconst enabled = global.get('mqtt.enabled', 'default') || false;\nconst topic = global.get('mqtt.topic', 'default') || '';\nconst discovery = global.get('mqtt.homeassistant', 'default') || '';\nconst devices = global.get('devices', 'memoryOnly') || {};\nconst describe = global.get('describe', 'memoryOnly') || {};\nconst source = 'nuki';\n\nif (!enabled || topic === '') {\n\n    return;\n}\n\nfunction value(dev, def) {\n    const raw = dev[def[10]];\n    if (raw === undefined || raw === null || raw === '') {\n\n        return undefined;\n    }\n    if (def[3] === 'enum') {\n\n        return def[6][String(raw)];\n    }\n    if (def[3] === 'binary') {\n\n        return raw === true || raw === 1 ? 'ON' : 'OFF';\n    }\n    if (def[3] === 'door') {\n\n        return raw === 3 ? 'ON' : (raw === 2 ? 'OFF' : undefined);\n    }\n\n    return raw;\n}\n\nfor (const id in devices) {\n    const dev = devices[id];\n    const control = (describe.control || {})[dev.family] || {};\n\n    const device = {\n        'identifiers': [\n            ['dknr', source, id].join('_')\n        ],\n        'manufacturer': 'Nuki',\n        'model': dev.model || 'Nuki',\n        'name': 'Nuki ' + (dev.name || id)\n    };\n    if (typeof dev.firmware === 'string' && dev.firmware !== '') {\n        device.sw_version = dev.firmware;\n    }\n\n    for (const k in control) {\n        const def = control[k];\n        const key = def[1];\n\n        // only entities available on this device (commands are always available)\n        if (def[2] !== 'command' && value(dev, def) === undefined) {\n\n            continue;\n        }\n\n        // dknr\n        node.send({\n            'topic': [topic, 'discovery', source, id, key].join('/'),\n            'payload': {\n                'name': def[0],\n                'group': def[2],\n                'type': def[3],\n                'unit': def[4],\n                'value': def[5],\n                'options': def[6]\n            },\n            'qos': 0,\n            'retain': true\n        });\n\n        // ha\n        if (discovery === '') {\n\n            continue;\n        }\n\n        let payload = {\n            'unique_id': ['dknr', source, id, key].join('_'),\n            'name': def[0],\n            'state_topic': [topic, 'get', source, id, key].join('/'),\n            'device': device\n        };\n\n        if (def[7] === 'sensor') {\n            if (def[4] !== '') {\n                payload.unit_of_measurement = def[4];\n            }\n            if (def[8] !== '') {\n                payload.state_class = def[8];\n            }\n            if (def[9] !== '') {\n                payload.device_class = def[9];\n            }\n            if (def[9] === 'enum') {\n                payload.options = [...new Set(Object.values(def[6]))];\n            }\n            if (['firmware', 'timestamp'].includes(key)) {\n                payload.entity_category = 'diagnostic';\n            }\n        }\n        else if (def[7] === 'binary_sensor') {\n            payload.payload_on = 'ON';\n            payload.payload_off = 'OFF';\n            if (def[9] !== '') {\n                payload.device_class = def[9];\n            }\n            if (['battery'].includes(def[9])) {\n                payload.entity_category = 'diagnostic';\n            }\n        }\n        else if (def[7] === 'lock') {\n            payload.command_topic = [topic, 'set', source, id, key].join('/');\n            payload.payload_lock = 'LOCK';\n            payload.payload_unlock = 'UNLOCK';\n            payload.payload_open = 'OPEN';\n            payload.state_locked = 'LOCKED';\n            payload.state_unlocked = 'UNLOCKED';\n            payload.state_locking = 'LOCKING';\n            payload.state_unlocking = 'UNLOCKING';\n            payload.state_jammed = 'JAMMED';\n            payload.state_open = 'OPEN';\n            payload.state_opening = 'OPENING';\n        }\n        else if (def[7] === 'select') {\n            payload.command_topic = [topic, 'set', source, id, key].join('/');\n            payload.options = Object.values(def[6]); // by label\n        }\n        else {\n\n            continue;\n        }\n\n        node.send({\n            'topic': [discovery, def[7], source, id + '_' + key, 'config'].join('/'),\n            'payload': payload,\n            'qos': 0,\n            'retain': true\n        });\n    }\n}\n\nreturn;",
+        "wires": [
+            [
+                "df58e1332d9b9265",
+                "729d251fc4615f70"
+            ]
+        ],
+        "x": 390,
+        "y": 1778
+    },
+    {
+        "id": "df58e1332d9b9265",
+        "type": "delay",
+        "z": "48135a54600713e8",
+        "g": "36bbd8cd168f8736",
+        "name": "20ms",
+        "pauseType": "delay",
+        "timeout": "20",
+        "timeoutUnits": "milliseconds",
+        "rate": "1",
+        "nbRateUnits": "1",
+        "rateUnits": "second",
+        "randomFirst": "1",
+        "randomLast": "5",
+        "randomUnits": "seconds",
+        "drop": false,
+        "allowrate": false,
+        "outputs": 1,
+        "wires": [
+            [
+                "e3bf3fdd364dd194"
+            ]
+        ],
+        "x": 590,
+        "y": 1778
+    },
+    {
+        "id": "e3bf3fdd364dd194",
+        "type": "link out",
+        "z": "48135a54600713e8",
+        "g": "36bbd8cd168f8736",
+        "name": "custom_discovery",
+        "mode": "link",
+        "wires": [],
+        "links": [
+            "d5bdaec879cbd196"
+        ],
+        "x": 790,
+        "y": 1778
+    },
+    {
+        "id": "729d251fc4615f70",
+        "type": "debug",
+        "z": "48135a54600713e8",
+        "g": "36bbd8cd168f8736",
+        "name": "custom - discovery",
+        "active": false,
+        "tosidebar": true,
+        "console": false,
+        "tostatus": false,
+        "complete": "true",
+        "targetType": "full",
+        "statusVal": "",
+        "statusType": "auto",
+        "wires": [],
+        "x": 590,
+        "y": 1838
+    },
+    {
+        "id": "42ae67c19e3e3682",
+        "type": "link in",
+        "z": "48135a54600713e8",
+        "g": "aa2434356a6005c9",
+        "name": "custom - detail",
+        "wires": [
+            [
+                "fc13877bc8688552",
+                "215179f09ce78515"
+            ]
+        ],
+        "links": [
+            "d0ee4b417bfa2bb7",
+            "ddab942f6d49a661",
+            "714b50f6d35ecd51",
+            "5d03f7b49d4130b4"
+        ],
+        "x": 190,
+        "y": 1960
+    },
+    {
+        "id": "fc13877bc8688552",
+        "type": "function",
+        "z": "48135a54600713e8",
+        "g": "aa2434356a6005c9",
+        "name": "get names",
+        "outputs": 2,
+        "timeout": 0,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "func": "// Fill device selector\n// output 1: auto select single device / output 2: dropdown\n\nflow.set('current_device', '', 'memoryOnly');\n\ndelete msg.dashboard;\ndelete msg.tab;\ndelete msg.name;\ndelete msg.version;\ndelete msg.title;\ndelete msg.full;\ndelete msg.git;\ndelete msg.lang;\ndelete msg.menus;\ndelete msg.titles;\ndelete msg.options;\n\nconst devices = global.get('devices', 'memoryOnly') || {};\nconst ids = Object.keys(devices).sort((a, b) => String(devices[a].name).localeCompare(String(devices[b].name)));\n\nmsg.payload = '';\nmsg.class = '';\nmsg.enabled = true;\nmsg.options = [{\n    'label': '',\n    'value': ''\n}];\n\nfor (const id of ids) {\n    msg.options.push({\n        'label': devices[id].name + ' (' + devices[id].model + ')',\n        'value': id\n    });\n}\n\nif (ids.length === 0) {\n    msg.class = 'remove';\n    msg.enabled = false;\n    msg.options = [];\n\n    return [null, msg];\n}\n\nif (ids.length === 1) {\n    node.send([{ 'payload': ids[0] }, null]);\n    msg.class = 'remove';\n    msg.enabled = false;\n\n    return [null, msg];\n}\n\nreturn [null, msg];",
+        "wires": [
+            [
+                "bbbf0a92c56392d6"
+            ],
+            [
+                "5fe9ae20996803b3"
+            ]
+        ],
+        "x": 390,
+        "y": 1960
+    },
+    {
+        "id": "5fe9ae20996803b3",
+        "type": "ui-dropdown",
+        "z": "48135a54600713e8",
+        "g": "aa2434356a6005c9",
+        "name": "custom - detail - select",
+        "label": "Sélectionner un appareil",
+        "tooltip": "",
+        "order": 1,
+        "width": "6",
+        "height": "1",
+        "passthru": false,
+        "multiple": false,
+        "chips": false,
+        "clearable": false,
+        "options": [
+            {
+                "label": "",
+                "value": "",
+                "type": "str"
+            }
+        ],
+        "payload": "",
+        "topic": "topic",
+        "topicType": "msg",
+        "className": "",
+        "typeIsComboBox": true,
+        "msgTrigger": "onChange",
+        "group": "117d5289b94a0fc6",
+        "wires": [
+            [
+                "3b9508c44f7033cc"
+            ]
+        ],
+        "x": 590,
+        "y": 2020
+    },
+    {
+        "id": "3b9508c44f7033cc",
+        "type": "switch",
+        "z": "48135a54600713e8",
+        "g": "aa2434356a6005c9",
+        "name": "empty",
+        "checkall": "false",
+        "repair": false,
+        "property": "payload",
+        "propertyType": "msg",
+        "rules": [
+            {
+                "t": "nempty"
+            },
+            {
+                "t": "else"
+            }
+        ],
+        "outputs": 2,
+        "wires": [
+            [
+                "bbbf0a92c56392d6"
+            ],
+            [
+                "215179f09ce78515"
+            ]
+        ],
+        "x": 790,
+        "y": 2020
+    },
+    {
+        "id": "bbbf0a92c56392d6",
+        "type": "function",
+        "z": "48135a54600713e8",
+        "g": "aa2434356a6005c9",
+        "name": "render",
+        "outputs": 4,
+        "timeout": 0,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "func": "// Show a device\n// output 1: table / output 2: smart lock actions / output 3: opener actions / output 4: refresh loop\n\nconst describe = global.get('describe', 'memoryOnly') || {};\nconst devices = global.get('devices', 'memoryOnly') || {};\nconst bridges = global.get('bridges', 'default') || {};\nconst id = msg.payload;\nconst dev = devices[id];\n\nconst hide = { 'payload': '', 'class': 'remove', 'enabled': false };\nconst show = { 'payload': '', 'class': '', 'enabled': true };\n\nif (typeof dev !== 'object') {\n    flow.set('current_device', '', 'memoryOnly');\n\n    return [{ 'payload': [], 'class': 'remove' }, hide, hide, null];\n}\n\nflow.set('current_device', id, 'memoryOnly');\n\nfunction value(dev, def) {\n    const raw = dev[def[10]];\n    if (raw === undefined || raw === null || raw === '') {\n\n        return undefined;\n    }\n    if (def[3] === 'enum') {\n\n        return def[6][String(raw)];\n    }\n    if (def[3] === 'binary') {\n\n        return raw === true || raw === 1 ? 'ON' : 'OFF';\n    }\n    if (def[3] === 'door') {\n\n        return raw === 3 ? 'ON' : (raw === 2 ? 'OFF' : undefined);\n    }\n\n    return raw;\n}\n\nlet rows = [];\nfunction add(lbl, val) {\n    if (val !== undefined && val !== null && val !== '') {\n        rows.push({ 'lbl': lbl, 'val': String(val) });\n    }\n}\n\nadd('Nom', dev.name);\nadd('Modèle', dev.model);\nadd('Identifiant', id);\nif (dev.source === 'bridge') {\n    const bridge = bridges[dev.bridge] || {};\n    add('Connexion', 'Bridge ' + (bridge.name || dev.bridge));\n    add('Emplacement', bridge.location);\n} else {\n    add('Connexion', 'MQTT natif');\n    if (dev.connected === false) {\n        add('Statut', 'Déconnecté');\n    }\n}\n\nconst control = (describe.control || {})[dev.family] || {};\nfor (const k in control) {\n    const def = control[k];\n    if (def[2] !== 'sensor' || def[1] === 'firmware') {\n\n        continue;\n    }\n\n    let v = value(dev, def);\n    if (v === undefined) {\n\n        continue;\n    }\n\n    if (def[3] === 'binary' || def[3] === 'door') {\n        v = v === 'ON' ? 'Oui' : 'Non';\n    } else if (def[9] === 'timestamp') {\n        const d = new Date(v);\n        if (!isNaN(d.getTime())) {\n            v = d.toLocaleString('fr-FR', { 'timeZone': env.get('TZ') || 'Europe/Paris' });\n        }\n    } else if (def[4] !== '') {\n        v = v + ' ' + def[4];\n    }\n\n    add(def[0], v);\n}\n\nadd('Firmware', dev.firmware);\n\nreturn [\n    { 'payload': rows, 'class': '' },\n    dev.family === 'opener' ? hide : show,\n    dev.family === 'opener' ? show : hide,\n    { 'payload': id }\n];",
+        "wires": [
+            [
+                "7a75fd81ea18e5d2"
+            ],
+            [
+                "72b4950973c4b878"
+            ],
+            [
+                "d50f364f58234232"
+            ],
+            [
+                "cb68300067bc2ba3"
+            ]
+        ],
+        "x": 990,
+        "y": 1960
+    },
+    {
+        "id": "7a75fd81ea18e5d2",
+        "type": "ui-table",
+        "z": "48135a54600713e8",
+        "g": "aa2434356a6005c9",
+        "name": "custom - detail - table",
+        "label": "",
+        "order": 2,
+        "width": "6",
+        "height": 0,
+        "maxrows": 0,
+        "passthru": false,
+        "autocols": false,
+        "showSearch": false,
+        "deselect": true,
+        "selectionType": "none",
+        "columns": [
+            {
+                "title": "",
+                "key": "lbl",
+                "keyType": "key",
+                "type": "text",
+                "width": "40%",
+                "align": "end"
+            },
+            {
+                "title": "",
+                "key": "val",
+                "keyType": "key",
+                "type": "text",
+                "width": "",
+                "align": "start"
+            }
+        ],
+        "mobileBreakpoint": "sm",
+        "mobileBreakpointType": "defaults",
+        "action": "replace",
+        "group": "117d5289b94a0fc6",
+        "wires": [
+            []
+        ],
+        "x": 1190,
+        "y": 1960
+    },
+    {
+        "id": "72b4950973c4b878",
+        "type": "ui-button-group",
+        "z": "48135a54600713e8",
+        "g": "aa2434356a6005c9",
+        "name": "custom - detail - smartlock",
+        "order": 3,
+        "width": "6",
+        "height": "1",
+        "label": "",
+        "className": "",
+        "rounded": false,
+        "useThemeColors": true,
+        "passthru": false,
+        "topic": "topic",
+        "topicType": "msg",
+        "group": "117d5289b94a0fc6",
+        "options": [
+            {
+                "label": "",
+                "icon": "lock-open-variant",
+                "value": "1",
+                "valueType": "str",
+                "color": "#009933"
+            },
+            {
+                "label": "",
+                "icon": "lock",
+                "value": "2",
+                "valueType": "str",
+                "color": "#ff6666"
+            },
+            {
+                "label": "",
+                "icon": "door-open",
+                "value": "3",
+                "valueType": "str",
+                "color": "#009999"
+            },
+            {
+                "label": "",
+                "icon": "lock-clock",
+                "value": "4",
+                "valueType": "str",
+                "color": "#cccc00"
+            },
+            {
+                "label": "",
+                "icon": "lock-plus",
+                "value": "6",
+                "valueType": "str",
+                "color": "#cc6600"
+            }
+        ],
+        "wires": [
+            [
+                "a89627275b3f38bc"
+            ]
+        ],
+        "x": 1190,
+        "y": 2020
+    },
+    {
+        "id": "d50f364f58234232",
+        "type": "ui-button-group",
+        "z": "48135a54600713e8",
+        "g": "aa2434356a6005c9",
+        "name": "custom - detail - opener",
+        "order": 4,
+        "width": "6",
+        "height": "1",
+        "label": "",
+        "className": "",
+        "rounded": false,
+        "useThemeColors": true,
+        "passthru": false,
+        "topic": "topic",
+        "topicType": "msg",
+        "group": "117d5289b94a0fc6",
+        "options": [
+            {
+                "label": "",
+                "icon": "bell-ring",
+                "value": "1",
+                "valueType": "str",
+                "color": "#009933"
+            },
+            {
+                "label": "",
+                "icon": "bell-off",
+                "value": "2",
+                "valueType": "str",
+                "color": "#ff6666"
+            },
+            {
+                "label": "",
+                "icon": "door-open",
+                "value": "3",
+                "valueType": "str",
+                "color": "#009999"
+            },
+            {
+                "label": "",
+                "icon": "bell-check",
+                "value": "4",
+                "valueType": "str",
+                "color": "#cccc00"
+            },
+            {
+                "label": "",
+                "icon": "bell-cancel",
+                "value": "5",
+                "valueType": "str",
+                "color": "#cc6600"
+            }
+        ],
+        "wires": [
+            [
+                "a89627275b3f38bc"
+            ]
+        ],
+        "x": 1190,
+        "y": 2080
+    },
+    {
+        "id": "a89627275b3f38bc",
+        "type": "function",
+        "z": "48135a54600713e8",
+        "g": "aa2434356a6005c9",
+        "name": "action",
+        "outputs": 1,
+        "timeout": 0,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "func": "// UI action button to lock action\n\nconst id = flow.get('current_device', 'memoryOnly') || '';\n\nif (id === '' || msg.payload === '' || msg.payload === undefined) {\n\n    return;\n}\n\nreturn {\n    'topic': id,\n    'payload': {\n        'id': id,\n        'action': Number(msg.payload)\n    }\n};",
+        "wires": [
+            [
+                "8f4d415b32886b62"
+            ]
+        ],
+        "x": 1390,
+        "y": 2020
+    },
+    {
+        "id": "8f4d415b32886b62",
+        "type": "link out",
+        "z": "48135a54600713e8",
+        "g": "aa2434356a6005c9",
+        "name": "custom - detail - pilot",
+        "mode": "link",
+        "wires": [],
+        "links": [
+            "97489b9c74b18279"
+        ],
+        "x": 1590,
+        "y": 2020
+    },
+    {
+        "id": "cb68300067bc2ba3",
+        "type": "trigger",
+        "z": "48135a54600713e8",
+        "g": "aa2434356a6005c9",
+        "name": "5s",
+        "op1": "",
+        "op2": "",
+        "op1type": "nul",
+        "op2type": "payl",
+        "duration": "5",
+        "extend": false,
+        "overrideDelay": false,
+        "units": "s",
+        "reset": "",
+        "bytopic": "all",
+        "topic": "topic",
+        "outputs": 1,
+        "wires": [
+            [
+                "fe917db853e72abe"
+            ]
+        ],
+        "x": 1190,
+        "y": 2140
+    },
+    {
+        "id": "fe917db853e72abe",
+        "type": "change",
+        "z": "48135a54600713e8",
+        "g": "aa2434356a6005c9",
+        "name": "current",
+        "action": "",
+        "property": "",
+        "from": "",
+        "to": "",
+        "reg": false,
+        "rules": [
+            {
+                "t": "set",
+                "p": "payload",
+                "pt": "msg",
+                "to": "#:(memoryOnly)::current_device",
+                "tot": "flow"
+            }
+        ],
+        "wires": [
+            [
+                "7ade51e419974721"
+            ]
+        ],
+        "x": 1390,
+        "y": 2140
+    },
+    {
+        "id": "7ade51e419974721",
+        "type": "switch",
+        "z": "48135a54600713e8",
+        "g": "aa2434356a6005c9",
+        "name": "empty",
+        "checkall": "false",
+        "repair": false,
+        "property": "payload",
+        "propertyType": "msg",
+        "rules": [
+            {
+                "t": "nempty"
+            }
+        ],
+        "outputs": 1,
+        "wires": [
+            [
+                "bbbf0a92c56392d6"
+            ]
+        ],
+        "x": 1590,
+        "y": 2140
+    },
+    {
+        "id": "215179f09ce78515",
+        "type": "change",
+        "z": "48135a54600713e8",
+        "g": "aa2434356a6005c9",
+        "name": "hide",
+        "action": "",
+        "property": "",
+        "from": "",
+        "to": "",
+        "reg": false,
+        "rules": [
+            {
+                "t": "set",
+                "p": "payload",
+                "pt": "msg",
+                "to": "",
+                "tot": "str"
+            },
+            {
+                "t": "set",
+                "p": "class",
+                "pt": "msg",
+                "to": "remove",
+                "tot": "str"
+            },
+            {
+                "t": "set",
+                "p": "enabled",
+                "pt": "msg",
+                "to": "false",
+                "tot": "bool"
+            }
+        ],
+        "wires": [
+            [
+                "7a75fd81ea18e5d2",
+                "72b4950973c4b878",
+                "d50f364f58234232"
+            ]
+        ],
+        "x": 390,
+        "y": 2080
+    },
+    {
+        "id": "bc316da0f789944c",
+        "type": "link in",
+        "z": "48135a54600713e8",
+        "g": "5a20c820ed561c3c",
+        "name": "custom - add",
+        "wires": [
+            [
+                "2c088a75ffcd9c7d"
+            ]
+        ],
+        "links": [
+            "d0ee4b417bfa2bb7",
+            "ddab942f6d49a661",
+            "714b50f6d35ecd51"
+        ],
+        "x": 190,
+        "y": 2262
+    },
+    {
+        "id": "2c088a75ffcd9c7d",
+        "type": "function",
+        "z": "48135a54600713e8",
+        "g": "5a20c820ed561c3c",
+        "name": "default",
+        "outputs": 1,
+        "timeout": 0,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "func": "// Prepare UI form\n\nconst bridges = global.get('bridges', 'default') || {};\nconst size = Object.keys(bridges).length;\n\nmsg.class = '';\nmsg.enabled = true;\nmsg.topic = '';\nmsg.payload = {\n    'name': 'Bridge_' + size,\n    'location': 'Maison',\n    'host': '',\n    'port': 8080,\n    'token': '',\n    'hashed': true,\n    'callback': ''\n};\n\nreturn msg;",
+        "wires": [
+            [
+                "b09d2449efe13408"
+            ]
+        ],
+        "x": 390,
+        "y": 2262
+    },
+    {
+        "id": "b09d2449efe13408",
+        "type": "ui-form",
+        "z": "48135a54600713e8",
+        "g": "5a20c820ed561c3c",
+        "name": "ui - add - form",
+        "label": "",
+        "order": 1,
+        "width": 0,
+        "height": 0,
+        "submit": "Ajouter",
+        "cancel": "",
+        "resetOnSubmit": true,
+        "topic": "topic",
+        "topicType": "msg",
+        "splitLayout": "",
+        "className": "",
+        "passthru": false,
+        "dropdownOptions": [],
+        "group": "878b175954cece85",
+        "options": [
+            {
+                "label": "Nom",
+                "key": "name",
+                "type": "text",
+                "required": true,
+                "rows": null
+            },
+            {
+                "label": "Emplacement",
+                "key": "location",
+                "type": "text",
+                "required": false,
+                "rows": null
+            },
+            {
+                "label": "Adresse IP du bridge",
+                "key": "host",
+                "type": "text",
+                "required": true,
+                "rows": null
+            },
+            {
+                "label": "Port",
+                "key": "port",
+                "type": "number",
+                "required": true,
+                "rows": null
+            },
+            {
+                "label": "Jeton API (vide = appairage par le bouton du bridge)",
+                "key": "token",
+                "type": "password",
+                "required": false,
+                "rows": null
+            },
+            {
+                "label": "Jeton chiffré (bridge matériel, horloge synchronisée)",
+                "key": "hashed",
+                "type": "checkbox",
+                "required": false,
+                "rows": null
+            },
+            {
+                "label": "URL de callback (ex: http://192.168.0.20:1880/nuki/callback)",
+                "key": "callback",
+                "type": "text",
+                "required": false,
+                "rows": null
+            }
+        ],
+        "formValue": {
+            "name": "",
+            "location": "",
+            "host": "",
+            "port": "",
+            "token": "",
+            "hashed": false,
+            "callback": ""
+        },
+        "wires": [
+            [
+                "515a3cd331faef3f"
+            ]
+        ],
+        "x": 590,
+        "y": 2262
+    },
+    {
+        "id": "515a3cd331faef3f",
+        "type": "function",
+        "z": "48135a54600713e8",
+        "g": "5a20c820ed561c3c",
+        "name": "check",
+        "outputs": 3,
+        "timeout": 0,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "func": "// Check UI form\n// output 1: bridge saved / output 2: ask bridge for a token (/auth) / output 3: notification\n\nconst bridges = global.get('bridges', 'default') || {};\nconst p = msg.payload || {};\n\nconst bridge = {\n    'name': String(p.name || '').trim(),\n    'location': String(p.location || '').trim(),\n    'host': String(p.host || '').trim(),\n    'port': Number(p.port) || 8080,\n    'token': String(p.token || '').trim(),\n    'hashed': p.hashed === true,\n    'callback': String(p.callback || '').trim()\n};\n\nif (bridge.host === '' || !/^[0-9A-Za-z.\\-]+$/.test(bridge.host)) {\n\n    return [null, null, { 'payload': 'Adresse IP du bridge invalide' }];\n}\n\nif (typeof bridges[bridge.host] === 'object') {\n\n    return [null, null, { 'payload': 'Ce bridge est déjà configuré' }];\n}\n\nif (bridge.callback !== '' && (!/^http:\\/\\//.test(bridge.callback) || bridge.callback.length > 254)) {\n\n    return [null, null, { 'payload': 'URL de callback invalide (http:// uniquement, 254 caractères maximum)' }];\n}\n\nif (bridge.name === '') {\n    bridge.name = bridge.host;\n}\n\n// No token: ask the bridge, the user has 30 seconds to press the bridge button\nif (bridge.token === '') {\n    flow.set('pending_bridge', bridge, 'memoryOnly');\n\n    return [null, {\n        'topic': bridge.host,\n        'url': 'http://' + bridge.host + ':' + bridge.port + '/auth',\n        'requestTimeout': 35000\n    }, {\n        'payload': 'Appuyez sur le bouton du bridge ' + bridge.name + ' (30 secondes)'\n    }];\n}\n\nbridges[bridge.host] = bridge;\nglobal.set('bridges', bridges, 'default');\n\nreturn [{ 'topic': bridge.host, 'payload': bridge.host }, null, { 'payload': 'Bridge ' + bridge.name + ' ajouté' }];",
+        "wires": [
+            [
+                "40e60d92f549f287"
+            ],
+            [
+                "15978f027ee8c286"
+            ],
+            [
+                "ab9f74078443de9c"
+            ]
+        ],
+        "x": 790,
+        "y": 2262
+    },
+    {
+        "id": "15978f027ee8c286",
+        "type": "http request",
+        "z": "48135a54600713e8",
+        "g": "5a20c820ed561c3c",
+        "name": "",
+        "method": "GET",
+        "ret": "obj",
+        "paytoqs": "ignore",
+        "url": "",
+        "tls": "",
+        "persist": false,
+        "proxy": "",
+        "insecureHTTPParser": false,
+        "authType": "",
+        "senderr": false,
+        "headers": [],
+        "wires": [
+            [
+                "3575881a51246420"
+            ]
+        ],
+        "x": 990,
+        "y": 2322
+    },
+    {
+        "id": "3575881a51246420",
+        "type": "function",
+        "z": "48135a54600713e8",
+        "g": "5a20c820ed561c3c",
+        "name": "auth",
+        "outputs": 2,
+        "timeout": 0,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "func": "// Bridge /auth response\n// output 1: bridge saved / output 2: notification\n\nconst pending = flow.get('pending_bridge', 'memoryOnly');\nflow.set('pending_bridge', null, 'memoryOnly');\n\nlet data = msg.payload;\nif (typeof data === 'string') {\n    try {\n        data = JSON.parse(data);\n    } catch (e) {\n        data = {};\n    }\n}\n\nif (typeof pending !== 'object' || pending === null || pending.host !== msg.topic) {\n\n    return;\n}\n\nif (msg.statusCode !== 200 || typeof data !== 'object' || data === null || data.success !== true || typeof data.token !== 'string') {\n    let reason = 'le bouton a-t-il été pressé ?';\n    if (msg.statusCode === 403) {\n        reason = 'activez l\\'API HTTP du bridge dans l\\'application Nuki';\n    } else if (typeof msg.statusCode !== 'number') {\n        reason = 'bridge injoignable';\n    }\n\n    return [null, { 'payload': 'Aucun jeton obtenu : ' + reason }];\n}\n\nconst bridges = global.get('bridges', 'default') || {};\npending.token = data.token;\nbridges[pending.host] = pending;\nglobal.set('bridges', bridges, 'default');\n\nreturn [{ 'topic': pending.host, 'payload': pending.host }, { 'payload': 'Bridge ' + pending.name + ' ajouté' }];",
+        "wires": [
+            [
+                "40e60d92f549f287"
+            ],
+            [
+                "ab9f74078443de9c"
+            ]
+        ],
+        "x": 1190,
+        "y": 2322
+    },
+    {
+        "id": "40e60d92f549f287",
+        "type": "delay",
+        "z": "48135a54600713e8",
+        "g": "5a20c820ed561c3c",
+        "name": "50ms",
+        "pauseType": "delay",
+        "timeout": "50",
+        "timeoutUnits": "milliseconds",
+        "rate": "1",
+        "nbRateUnits": "1",
+        "rateUnits": "second",
+        "randomFirst": "1",
+        "randomLast": "5",
+        "randomUnits": "seconds",
+        "drop": false,
+        "allowrate": false,
+        "outputs": 1,
+        "wires": [
+            [
+                "714b50f6d35ecd51"
+            ]
+        ],
+        "x": 1390,
+        "y": 2262
+    },
+    {
+        "id": "714b50f6d35ecd51",
+        "type": "link out",
+        "z": "48135a54600713e8",
+        "g": "5a20c820ed561c3c",
+        "name": "custom - add",
+        "mode": "link",
+        "wires": [],
+        "links": [
+            "bc316da0f789944c",
+            "42ae67c19e3e3682",
+            "d90072e5ae8fb4c1",
+            "0fd669297ef578d1",
+            "aa5d8fdb64d8eead"
+        ],
+        "x": 1590,
+        "y": 2262
+    },
+    {
+        "id": "ab9f74078443de9c",
+        "type": "link out",
+        "z": "48135a54600713e8",
+        "g": "5a20c820ed561c3c",
+        "name": "custom - add - error",
+        "mode": "link",
+        "wires": [],
+        "links": [
+            "fc147ee782462bbe"
+        ],
+        "x": 1390,
+        "y": 2382
+    },
+    {
+        "id": "d90072e5ae8fb4c1",
+        "type": "link in",
+        "z": "48135a54600713e8",
+        "g": "00518ec837921924",
+        "name": "custom - bridges",
+        "wires": [
+            [
+                "03920df0c676d4a8"
+            ]
+        ],
+        "links": [
+            "d0ee4b417bfa2bb7",
+            "ddab942f6d49a661",
+            "714b50f6d35ecd51",
+            "5d03f7b49d4130b4"
+        ],
+        "x": 190,
+        "y": 2504
+    },
+    {
+        "id": "03920df0c676d4a8",
+        "type": "function",
+        "z": "48135a54600713e8",
+        "g": "00518ec837921924",
+        "name": "list",
+        "outputs": 3,
+        "timeout": 0,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "func": "// List configured bridges\n// output 1: table / output 2: dropdown / output 3: delete button\n\nflow.set('current_bridge', '', 'memoryOnly');\n\nconst bridges = global.get('bridges', 'default') || {};\nconst devices = global.get('devices', 'memoryOnly') || {};\n\nlet rows = [];\nlet options = [{ 'label': '', 'value': '' }];\n\nfor (const host in bridges) {\n    const b = bridges[host];\n    let count = 0;\n    for (const id in devices) {\n        if (devices[id].source === 'bridge' && devices[id].bridge === host) {\n            count++;\n        }\n    }\n\n    rows.push({\n        'lbl': b.name,\n        'val': host + ':' + b.port + (b.location ? ' - ' + b.location : '') + ' - ' + count + ' appareil(s)'\n    });\n    options.push({\n        'label': b.name + ' (' + host + ')',\n        'value': host\n    });\n}\n\nconst button = { 'payload': '', 'class': 'remove', 'enabled': false };\n\nif (rows.length === 0) {\n\n    return [\n        { 'payload': [], 'class': 'remove' },\n        { 'payload': '', 'options': [], 'class': 'remove', 'enabled': false },\n        button\n    ];\n}\n\nreturn [\n    { 'payload': rows, 'class': '' },\n    { 'payload': '', 'options': options, 'class': '', 'enabled': true },\n    button\n];",
+        "wires": [
+            [
+                "c630291b8f1b800e"
+            ],
+            [
+                "20d2011eb0c2ae8d"
+            ],
+            [
+                "5c8c7fe9b2563261"
+            ]
+        ],
+        "x": 390,
+        "y": 2504
+    },
+    {
+        "id": "c630291b8f1b800e",
+        "type": "ui-table",
+        "z": "48135a54600713e8",
+        "g": "00518ec837921924",
+        "name": "custom - bridges - table",
+        "label": "",
+        "order": 1,
+        "width": "3",
+        "height": 0,
+        "maxrows": 0,
+        "passthru": false,
+        "autocols": false,
+        "showSearch": false,
+        "deselect": true,
+        "selectionType": "none",
+        "columns": [
+            {
+                "title": "",
+                "key": "lbl",
+                "keyType": "key",
+                "type": "text",
+                "width": "40%",
+                "align": "end"
+            },
+            {
+                "title": "",
+                "key": "val",
+                "keyType": "key",
+                "type": "text",
+                "width": "",
+                "align": "start"
+            }
+        ],
+        "mobileBreakpoint": "sm",
+        "mobileBreakpointType": "defaults",
+        "action": "replace",
+        "group": "ef5bde6580675b69",
+        "wires": [
+            []
+        ],
+        "x": 590,
+        "y": 2504
+    },
+    {
+        "id": "20d2011eb0c2ae8d",
+        "type": "ui-dropdown",
+        "z": "48135a54600713e8",
+        "g": "00518ec837921924",
+        "name": "custom - bridges - select",
+        "label": "Sélectionner un bridge",
+        "tooltip": "",
+        "order": 2,
+        "width": "3",
+        "height": "1",
+        "passthru": false,
+        "multiple": false,
+        "chips": false,
+        "clearable": false,
+        "options": [
+            {
+                "label": "",
+                "value": "",
+                "type": "str"
+            }
+        ],
+        "payload": "",
+        "topic": "topic",
+        "topicType": "msg",
+        "className": "",
+        "typeIsComboBox": true,
+        "msgTrigger": "onChange",
+        "group": "ef5bde6580675b69",
+        "wires": [
+            [
+                "30711e20ed6fac4c"
+            ]
+        ],
+        "x": 590,
+        "y": 2564
+    },
+    {
+        "id": "30711e20ed6fac4c",
+        "type": "function",
+        "z": "48135a54600713e8",
+        "g": "00518ec837921924",
+        "name": "select",
+        "outputs": 1,
+        "timeout": 0,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "func": "// Select a bridge to delete\n\nconst bridges = global.get('bridges', 'default') || {};\nconst host = typeof msg.payload === 'string' ? msg.payload : '';\n\nif (host !== '' && typeof bridges[host] === 'object') {\n    flow.set('current_bridge', host, 'memoryOnly');\n\n    return { 'payload': '', 'class': '', 'enabled': true };\n}\n\nflow.set('current_bridge', '', 'memoryOnly');\n\nreturn { 'payload': '', 'class': 'remove', 'enabled': false };",
+        "wires": [
+            [
+                "5c8c7fe9b2563261"
+            ]
+        ],
+        "x": 790,
+        "y": 2564
+    },
+    {
+        "id": "5c8c7fe9b2563261",
+        "type": "ui-button",
+        "z": "48135a54600713e8",
+        "g": "00518ec837921924",
+        "name": "custom - bridges - delete",
+        "label": "Supprimer",
+        "order": 3,
+        "width": "3",
+        "height": "1",
+        "emulateClick": false,
+        "tooltip": "",
+        "color": "",
+        "bgcolor": "",
+        "className": "",
+        "icon": "delete",
+        "iconPosition": "left",
+        "payload": "",
+        "payloadType": "str",
+        "topic": "topic",
+        "topicType": "msg",
+        "buttonColor": "",
+        "textColor": "",
+        "iconColor": "",
+        "enableClick": true,
+        "enablePointerdown": false,
+        "pointerdownPayload": "",
+        "pointerdownPayloadType": "str",
+        "enablePointerup": false,
+        "pointerupPayload": "",
+        "pointerupPayloadType": "str",
+        "group": "ef5bde6580675b69",
+        "wires": [
+            [
+                "7b95134f8dcfe655"
+            ]
+        ],
+        "x": 990,
+        "y": 2564
+    },
+    {
+        "id": "7b95134f8dcfe655",
+        "type": "function",
+        "z": "48135a54600713e8",
+        "g": "00518ec837921924",
+        "name": "delete",
+        "outputs": 3,
+        "timeout": 0,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "func": "// Delete selected bridge and its devices\n// output 1: refresh / output 2: notification / output 3: MQTT discovery cleanup\n\nconst host = flow.get('current_bridge', 'memoryOnly') || '';\nconst bridges = global.get('bridges', 'default') || {};\nconst devices = global.get('devices', 'memoryOnly') || {};\nconst describe = global.get('describe', 'memoryOnly') || {};\nconst topic = global.get('mqtt.topic', 'default') || '';\nconst discovery = global.get('mqtt.homeassistant', 'default') || '';\nconst source = 'nuki';\n\nif (host === '' || typeof bridges[host] !== 'object') {\n\n    return;\n}\n\nconst name = bridges[host].name || host;\ndelete bridges[host];\nglobal.set('bridges', bridges, 'default');\n\nfor (const id in devices) {\n    if (devices[id].source !== 'bridge' || devices[id].bridge !== host) {\n\n        continue;\n    }\n\n    // remove retained discovery messages\n    const control = (describe.control || {})[devices[id].family] || {};\n    for (const k in control) {\n        const key = control[k][1];\n        if (topic !== '') {\n            node.send([null, null, { 'topic': [topic, 'discovery', source, id, key].join('/'), 'payload': '', 'qos': 0, 'retain': true }]);\n            node.send([null, null, { 'topic': [topic, 'get', source, id, key].join('/'), 'payload': '', 'qos': 0, 'retain': true }]);\n        }\n        if (discovery !== '') {\n            node.send([null, null, { 'topic': [discovery, control[k][7], source, id + '_' + key, 'config'].join('/'), 'payload': '', 'qos': 0, 'retain': true }]);\n        }\n    }\n\n    delete devices[id];\n}\n\nglobal.set('devices', devices, 'memoryOnly');\nflow.set('current_bridge', '', 'memoryOnly');\n\nreturn [{ 'payload': host }, { 'payload': 'Bridge ' + name + ' supprimé' }, null];",
+        "wires": [
+            [
+                "327248a9cb2a31cd"
+            ],
+            [
+                "ea3be4f79099a66c"
+            ],
+            [
+                "a58748353cb572ac"
+            ]
+        ],
+        "x": 1190,
+        "y": 2564
+    },
+    {
+        "id": "327248a9cb2a31cd",
+        "type": "delay",
+        "z": "48135a54600713e8",
+        "g": "00518ec837921924",
+        "name": "50ms",
+        "pauseType": "delay",
+        "timeout": "50",
+        "timeoutUnits": "milliseconds",
+        "rate": "1",
+        "nbRateUnits": "1",
+        "rateUnits": "second",
+        "randomFirst": "1",
+        "randomLast": "5",
+        "randomUnits": "seconds",
+        "drop": false,
+        "allowrate": false,
+        "outputs": 1,
+        "wires": [
+            [
+                "5d03f7b49d4130b4"
+            ]
+        ],
+        "x": 1390,
+        "y": 2504
+    },
+    {
+        "id": "5d03f7b49d4130b4",
+        "type": "link out",
+        "z": "48135a54600713e8",
+        "g": "00518ec837921924",
+        "name": "custom - bridges - delete",
+        "mode": "link",
+        "wires": [],
+        "links": [
+            "42ae67c19e3e3682",
+            "d90072e5ae8fb4c1"
+        ],
+        "x": 1590,
+        "y": 2504
+    },
+    {
+        "id": "ea3be4f79099a66c",
+        "type": "link out",
+        "z": "48135a54600713e8",
+        "g": "00518ec837921924",
+        "name": "custom - bridges - notify",
+        "mode": "link",
+        "wires": [],
+        "links": [
+            "fc147ee782462bbe"
+        ],
+        "x": 1390,
+        "y": 2564
+    },
+    {
+        "id": "a58748353cb572ac",
+        "type": "link out",
+        "z": "48135a54600713e8",
+        "g": "00518ec837921924",
+        "name": "custom - bridges - mqtt",
+        "mode": "link",
+        "wires": [],
+        "links": [
+            "d5bdaec879cbd196"
+        ],
+        "x": 1390,
+        "y": 2624
+    },
+    {
+        "id": "a0afb30d023e2ea5",
+        "type": "comment",
+        "z": "48135a54600713e8",
+        "g": "2a1ab92796f321cc",
+        "name": "Sources",
+        "info": "Nuki Bridge HTTP API: https://developer.nuki.io/t/bridge-http-api/26\nNuki MQTT API: https://developer.nuki.io/t/mqtt-api-specification-v1-3/17626\n\nLes Smart Lock 3.0/4.0 avec MQTT natif publient sur nuki/<id>/... :\nactiver l'option dans la page Configurer pour les reprendre dans l'arborescence DKNR.",
+        "wires": [],
+        "x": 190,
+        "y": 2746
+    },
+    {
+        "id": "df7710b4b2c4e55b",
+        "type": "ui-base",
+        "name": "Tableau de bord",
+        "path": "/dashboard",
+        "appIcon": "/icon.png",
+        "includeClientData": true,
+        "acceptsClientConfig": [
+            "ui-notification",
+            "ui-control"
+        ],
+        "showPathInSidebar": false,
+        "headerContent": "none",
+        "navigationStyle": "none",
+        "titleBarStyle": "hidden",
+        "showReconnectNotification": true,
+        "notificationDisplayTime": 1,
+        "showDisconnectNotification": true,
+        "allowInstall": false
+    },
+    {
+        "id": "877e716e64a22cf1",
+        "type": "ui-theme",
+        "name": "Default Theme",
+        "colors": {
+            "surface": "#ffffff",
+            "primary": "#0094CE",
+            "bgPage": "#eeeeee",
+            "groupBg": "#ffffff",
+            "groupOutline": "#cccccc"
+        },
+        "sizes": {
+            "density": "default",
+            "pagePadding": "12px",
+            "groupGap": "12px",
+            "groupBorderRadius": "4px",
+            "widgetGap": "12px"
+        }
+    },
+    {
+        "id": "f89655b525aee8cd",
+        "type": "ui-page",
+        "name": "detail",
+        "ui": "df7710b4b2c4e55b",
+        "path": "/",
+        "icon": "eye",
+        "layout": "notebook",
+        "theme": "877e716e64a22cf1",
+        "breakpoints": [
+            {
+                "name": "Default",
+                "px": "0",
+                "cols": "3"
+            },
+            {
+                "name": "Tablet",
+                "px": "576",
+                "cols": "6"
+            },
+            {
+                "name": "Small Desktop",
+                "px": "768",
+                "cols": "9"
+            },
+            {
+                "name": "Desktop",
+                "px": "1024",
+                "cols": "12"
+            }
+        ],
+        "order": 1,
+        "className": "",
+        "visible": "true",
+        "disabled": "false"
+    },
+    {
+        "id": "b3a4a63fc14f6988",
+        "type": "ui-page",
+        "name": "add",
+        "ui": "df7710b4b2c4e55b",
+        "path": "/add",
+        "icon": "plus-thick",
+        "layout": "notebook",
+        "theme": "877e716e64a22cf1",
+        "breakpoints": [
+            {
+                "name": "Default",
+                "px": "0",
+                "cols": "3"
+            },
+            {
+                "name": "Tablet",
+                "px": "576",
+                "cols": "6"
+            },
+            {
+                "name": "Small Desktop",
+                "px": "768",
+                "cols": "9"
+            },
+            {
+                "name": "Desktop",
+                "px": "1024",
+                "cols": "12"
+            }
+        ],
+        "order": 2,
+        "className": "",
+        "visible": "true",
+        "disabled": "false"
+    },
+    {
+        "id": "887b3087f3dda2eb",
+        "type": "ui-page",
+        "name": "mqtt",
+        "ui": "df7710b4b2c4e55b",
+        "path": "/mqtt",
+        "icon": "cog",
+        "layout": "notebook",
+        "theme": "877e716e64a22cf1",
+        "breakpoints": [
+            {
+                "name": "Default",
+                "px": "0",
+                "cols": "3"
+            },
+            {
+                "name": "Tablet",
+                "px": "576",
+                "cols": "6"
+            },
+            {
+                "name": "Small Desktop",
+                "px": "768",
+                "cols": "9"
+            },
+            {
+                "name": "Desktop",
+                "px": "1024",
+                "cols": "12"
+            }
+        ],
+        "order": 3,
+        "className": "",
+        "visible": "true",
+        "disabled": "false"
+    },
+    {
+        "id": "117d5289b94a0fc6",
+        "type": "ui-group",
+        "name": "Détail d'un appareil",
+        "page": "f89655b525aee8cd",
+        "width": "6",
+        "height": 1,
+        "order": 1,
+        "showTitle": true,
+        "className": "",
+        "visible": "true",
+        "disabled": "false",
+        "groupType": "default"
+    },
+    {
+        "id": "878b175954cece85",
+        "type": "ui-group",
+        "name": "Ajouter un bridge Nuki",
+        "page": "b3a4a63fc14f6988",
+        "width": "3",
+        "height": 1,
+        "order": 1,
+        "showTitle": true,
+        "className": "",
+        "visible": "true",
+        "disabled": "false",
+        "groupType": "default"
+    },
+    {
+        "id": "ef5bde6580675b69",
+        "type": "ui-group",
+        "name": "Bridges configurés",
+        "page": "b3a4a63fc14f6988",
+        "width": "3",
+        "height": 1,
+        "order": 2,
+        "showTitle": true,
+        "className": "",
+        "visible": "true",
+        "disabled": "false",
+        "groupType": "default"
+    },
+    {
+        "id": "4c116fe2697e0aa9",
+        "type": "ui-group",
+        "name": "Configurer MQTT",
+        "page": "887b3087f3dda2eb",
+        "width": "3",
+        "height": 1,
+        "order": 1,
+        "showTitle": true,
+        "className": "",
+        "visible": "true",
+        "disabled": "false",
+        "groupType": "default"
+    },
+    {
+        "id": "2c5e094fee5ae877",
+        "type": "mqtt-broker",
+        "name": "MQTT",
+        "broker": "192.168.0.11",
+        "port": "1883",
+        "clientid": "dknuki",
+        "autoConnect": true,
+        "usetls": false,
+        "protocolVersion": 4,
+        "keepalive": 60,
+        "cleansession": true,
+        "autoUnsubscribe": true,
+        "birthTopic": "",
+        "birthQos": "0",
+        "birthRetain": "false",
+        "birthPayload": "",
+        "birthMsg": {},
+        "closeTopic": "",
+        "closeQos": "0",
+        "closeRetain": "false",
+        "closePayload": "",
+        "closeMsg": {},
+        "willTopic": "",
+        "willQos": "0",
+        "willRetain": "false",
+        "willPayload": "",
+        "willMsg": {},
+        "userProps": "",
+        "sessionExpiry": ""
+    }
+]
